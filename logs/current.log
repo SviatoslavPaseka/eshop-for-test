@@ -1,0 +1,1110 @@
+[INFO ] 07-11-2023_16-04-08-956 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-04-08-970 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-04-09-206 [main] Server - HTTP Server started at port 8888
+[ERROR] 07-11-2023_16-04-53-826 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-04-53-827 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:167) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:62) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-04-53-836 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_16-05-39-396 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-05-39-410 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-05-39-599 [main] Server - HTTP Server started at port 8888
+[ERROR] 07-11-2023_16-05-52-147 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-05-52-147 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:167) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:62) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-05-52-155 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_16-08-35-982 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-08-35-995 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-08-36-224 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_16-08-50-770 [HTTP-Dispatcher] CartService - session
+[ERROR] 07-11-2023_16-08-50-771 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-08-50-772 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:39) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:167) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:62) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-08-50-784 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_16-10-15-918 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-10-15-930 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-10-19-064 [main] Server - HTTP Server started at port 8888
+[ERROR] 07-11-2023_16-10-23-476 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-10-23-479 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:167) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:62) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-10-23-495 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[ERROR] 07-11-2023_16-11-29-823 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-11-29-824 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:167) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:62) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-11-29-824 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[ERROR] 07-11-2023_16-12-53-099 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-12-53-100 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:167) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:62) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-12-53-102 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_16-33-36-647 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-33-36-659 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-33-36-814 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_16-56-28-786 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-56-28-799 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-56-29-065 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_16-56-35-414 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-56-35-424 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-56-35-424 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-56-35-425 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-56-35-425 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-56-35-426 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-12-863 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-57-12-874 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-57-13-021 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_16-57-20-379 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-20-383 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-20-383 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-20-384 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-20-384 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-20-385 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-37-269 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-41-755 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-57-48-647 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 07-11-2023_16-58-26-481 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_16-58-26-493 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_16-58-26-644 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_16-58-30-673 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_16-58-30-676 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_16-58-30-676 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_16-58-30-691 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_17-10-07-122 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_17-10-07-134 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_17-10-07-397 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_17-10-13-855 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_17-10-13-858 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_17-10-13-858 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_17-10-13-871 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_17-37-08-439 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_17-37-08-454 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_17-37-08-708 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_17-37-22-498 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_17-37-22-502 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_17-37-22-503 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_17-37-22-515 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_17-38-25-842 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_17-38-25-857 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_17-38-25-980 [main] CartService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_17-38-26-006 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_17-38-29-742 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_17-38-29-744 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_17-38-29-744 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_17-38-29-754 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_17-43-00-261 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 07-11-2023_17-43-00-263 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_17-43-00-274 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_17-43-00-506 [main] Server - Initializing session service SERVER clas
+[INFO ] 07-11-2023_17-43-00-507 [main] CartService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_17-43-00-519 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 07-11-2023_17-43-00-530 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_17-48-55-510 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 07-11-2023_17-48-55-512 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_17-48-55-523 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_17-48-55-762 [main] Server - Initializing session service SERVER clas
+[INFO ] 07-11-2023_17-48-55-762 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_17-48-55-775 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 07-11-2023_17-48-55-792 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_18-04-09-599 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 07-11-2023_18-04-09-601 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_18-04-09-614 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_18-04-09-849 [main] Server - Initializing session service SERVER clas
+[INFO ] 07-11-2023_18-04-09-850 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_18-04-09-865 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 07-11-2023_18-04-09-876 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_18-04-23-913 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 07-11-2023_18-04-23-914 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 07-11-2023_18-04-23-914 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 07-11-2023_18-04-23-916 [HTTP-Dispatcher] Session - building sid
+[INFO ] 07-11-2023_18-04-23-916 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 07-11-2023_18-04-23-916 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 07-11-2023_18-04-23-917 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=2d471112-20bc-4e1b-b3a4-cf82026dfc68; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 07-11-2023_18-04-23-936 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-04-23-938 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 07-11-2023_18-04-23-940 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 07-11-2023_18-04-23-964 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-04-23-971 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-04-24-023 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 07-11-2023_18-04-24-025 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 07-11-2023_18-04-24-026 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 07-11-2023_18-04-24-032 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 07-11-2023_18-04-24-035 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 07-11-2023_18-04-24-036 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 07-11-2023_18-04-27-818 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 07-11-2023_18-04-27-818 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 07-11-2023_18-04-27-819 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 07-11-2023_18-04-27-819 [HTTP-Dispatcher] Session - building sid
+[INFO ] 07-11-2023_18-04-27-819 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 07-11-2023_18-04-27-819 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 07-11-2023_18-04-27-819 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=e404e3f8-be0a-47a7-8318-2018f3d01b1b; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 07-11-2023_18-04-27-841 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-04-27-844 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 07-11-2023_18-04-27-848 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 07-11-2023_18-04-27-850 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-04-27-853 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-04-29-052 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-04-29-055 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 07-11-2023_18-04-29-059 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 07-11-2023_18-04-29-062 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 07-11-2023_18-04-29-065 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 07-11-2023_18-04-29-069 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 07-11-2023_18-04-29-071 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 07-11-2023_18-09-23-967 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 07-11-2023_18-09-23-970 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_18-09-23-980 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_18-09-24-203 [main] Server - Initializing session service SERVER clas
+[INFO ] 07-11-2023_18-09-24-204 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_18-09-24-219 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 07-11-2023_18-09-24-232 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_18-09-30-315 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 07-11-2023_18-09-30-316 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 07-11-2023_18-09-30-316 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 07-11-2023_18-09-30-318 [HTTP-Dispatcher] Session - building sid
+[INFO ] 07-11-2023_18-09-30-318 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 07-11-2023_18-09-30-319 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 07-11-2023_18-09-30-319 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 07-11-2023_18-09-30-319 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 07-11-2023_18-09-30-320 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=9df44e43-a168-493c-94e5-4cbbf3ee0f62; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 07-11-2023_18-09-30-364 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-09-30-366 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 07-11-2023_18-09-30-368 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 07-11-2023_18-09-30-370 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-09-30-394 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-09-32-247 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-09-32-249 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 07-11-2023_18-09-32-258 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 07-11-2023_18-09-32-263 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 07-11-2023_18-09-32-266 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 07-11-2023_18-09-32-274 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 07-11-2023_18-09-32-276 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 07-11-2023_18-18-56-003 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-18-56-052 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-18-56-055 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-18-56-058 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-18-56-059 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-18-56-060 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-18-56-091 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-18-56-093 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-18-56-094 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-18-56-122 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-18-56-124 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-18-56-127 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-18-56-131 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-18-56-134 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-18-56-138 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-19-51-811 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-19-51-839 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-19-51-842 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-19-51-844 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-19-51-848 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-19-51-851 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-19-51-870 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-19-51-872 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-19-51-873 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-19-51-873 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-19-51-874 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-19-52-716 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/ham.png
+[INFO ] 07-11-2023_18-19-52-720 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/carbonade.png
+[INFO ] 07-11-2023_18-19-52-724 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/sausage.png
+[INFO ] 07-11-2023_18-19-52-728 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/chicken_fillet.png
+[INFO ] 07-11-2023_18-21-26-099 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-21-26-110 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-21-26-114 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-21-40-474 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-21-40-513 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-21-40-518 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-21-40-522 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-21-40-524 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-21-40-525 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-21-40-554 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-21-40-557 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-21-40-557 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-21-40-557 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:169) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:104) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-21-40-558 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-21-42-069 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-21-42-072 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-21-42-076 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-21-42-085 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-32-39-022 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 07-11-2023_18-32-39-024 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_18-32-39-036 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_18-32-39-270 [main] Server - Initializing session service SERVER clas
+[INFO ] 07-11-2023_18-32-39-270 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_18-32-39-286 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 07-11-2023_18-32-39-288 [main] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-32-39-301 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_18-32-52-570 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 07-11-2023_18-32-52-572 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 07-11-2023_18-32-52-572 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 07-11-2023_18-32-52-574 [HTTP-Dispatcher] Session - building sid
+[INFO ] 07-11-2023_18-32-52-574 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 07-11-2023_18-32-52-575 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 07-11-2023_18-32-52-575 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 07-11-2023_18-32-52-575 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 07-11-2023_18-32-52-576 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=5db516ac-8073-4d4c-b121-4f57aa44abc6; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 07-11-2023_18-32-52-619 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-32-52-625 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 07-11-2023_18-32-52-636 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 07-11-2023_18-32-52-638 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-32-52-685 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-32-54-033 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-32-54-037 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 07-11-2023_18-32-54-048 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 07-11-2023_18-32-54-052 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 07-11-2023_18-32-54-054 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 07-11-2023_18-32-54-057 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 07-11-2023_18-32-54-059 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 07-11-2023_18-33-20-045 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-33-20-081 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-33-20-086 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-33-20-094 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-33-20-097 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-33-20-098 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-33-20-124 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-33-20-125 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-33-20-125 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:171) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:106) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:66) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-33-20-137 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-33-20-138 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-33-20-139 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-33-20-140 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-33-20-142 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-33-20-144 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-35-16-000 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 07-11-2023_18-35-16-003 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 07-11-2023_18-35-16-015 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 07-11-2023_18-35-16-134 [main] Server - Initializing session service SERVER clas
+[INFO ] 07-11-2023_18-35-16-134 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 07-11-2023_18-35-16-150 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 07-11-2023_18-35-16-151 [main] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-35-16-158 [main] Server - HTTP Server started at port 8888
+[INFO ] 07-11-2023_18-35-24-091 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 07-11-2023_18-35-24-092 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 07-11-2023_18-35-24-092 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 07-11-2023_18-35-24-094 [HTTP-Dispatcher] Session - building sid
+[INFO ] 07-11-2023_18-35-24-094 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 07-11-2023_18-35-24-095 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@4528d7d3
+[INFO ] 07-11-2023_18-35-24-095 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 07-11-2023_18-35-24-096 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@4528d7d3
+[INFO ] 07-11-2023_18-35-24-097 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=fdac862d-a0a4-4361-93cb-f34680768b06; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 07-11-2023_18-35-24-153 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-35-24-155 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 07-11-2023_18-35-24-157 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 07-11-2023_18-35-24-158 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-35-24-211 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-35-25-869 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 07-11-2023_18-35-25-886 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 07-11-2023_18-35-25-892 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 07-11-2023_18-35-25-898 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 07-11-2023_18-35-25-901 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 07-11-2023_18-35-25-902 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 07-11-2023_18-35-35-626 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-35-35-659 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-35-35-662 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-35-35-671 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-35-35-674 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-35-35-675 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-35-35-692 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-35-35-693 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-35-35-694 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-35-35-694 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-35-35-705 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-35-35-710 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-35-36-774 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-35-36-780 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-35-36-786 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-35-36-792 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-38-01-188 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-38-01-240 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-38-01-245 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-38-01-248 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-38-01-250 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-38-01-252 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-38-01-311 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-38-01-313 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-38-01-313 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-38-01-313 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-38-01-314 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-38-01-314 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-38-32-989 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-38-32-998 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-38-33-006 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-38-33-019 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-40-08-101 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-40-08-164 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-40-08-169 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-40-08-172 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-40-08-175 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-40-08-176 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-40-08-233 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-40-08-234 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-40-08-235 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-40-08-235 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-40-08-236 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-40-08-238 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-40-08-254 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-40-08-259 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-40-08-262 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-40-08-277 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-41-41-620 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 07-11-2023_18-41-41-679 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 07-11-2023_18-41-41-681 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 07-11-2023_18-41-41-688 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 07-11-2023_18-41-41-691 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 07-11-2023_18-41-41-694 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 07-11-2023_18-41-41-750 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-41-41-751 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-41-41-752 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-41-41-752 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-41-41-754 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-41-41-756 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-41-44-851 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 07-11-2023_18-41-44-857 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 07-11-2023_18-41-44-863 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 07-11-2023_18-41-44-872 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 07-11-2023_18-41-44-879 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 07-11-2023_18-45-49-143 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-45-49-151 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-45-49-161 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-45-49-164 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.addItemToSessionCart(CartService.java:22) ~[classes/:?]
+	at com.eshop.cart.CartHandler.addItem(CartHandler.java:165) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:135) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:73) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-45-49-165 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 07-11-2023_18-45-51-725 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 07-11-2023_18-45-51-726 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 07-11-2023_18-45-51-726 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 07-11-2023_18-45-51-726 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.addItemToSessionCart(CartService.java:22) ~[classes/:?]
+	at com.eshop.cart.CartHandler.addItem(CartHandler.java:165) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:135) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:73) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 07-11-2023_18-45-51-727 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 08-11-2023_13-06-19-243 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 08-11-2023_13-06-19-245 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 08-11-2023_13-06-19-255 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 08-11-2023_13-06-19-373 [main] Server - Initializing session service SERVER clas
+[INFO ] 08-11-2023_13-06-19-374 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 08-11-2023_13-06-19-386 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 08-11-2023_13-06-19-391 [main] CartHandler - print sessions list:
+
+[INFO ] 08-11-2023_13-06-19-403 [main] Server - HTTP Server started at port 8888
+[INFO ] 08-11-2023_13-06-34-853 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 08-11-2023_13-06-34-855 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 08-11-2023_13-06-34-855 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 08-11-2023_13-06-34-856 [HTTP-Dispatcher] Session - building sid
+[INFO ] 08-11-2023_13-06-34-856 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 08-11-2023_13-06-34-858 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 08-11-2023_13-06-34-858 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 08-11-2023_13-06-34-858 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 08-11-2023_13-06-34-858 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=c65c3b81-d96f-462c-9df7-3a438e5127fc; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 08-11-2023_13-06-34-896 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 08-11-2023_13-06-34-898 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 08-11-2023_13-06-34-900 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 08-11-2023_13-06-34-903 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 08-11-2023_13-06-34-922 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 08-11-2023_13-06-36-217 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 08-11-2023_13-06-36-229 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 08-11-2023_13-06-36-237 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 08-11-2023_13-06-36-239 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 08-11-2023_13-06-36-241 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 08-11-2023_13-06-36-242 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 08-11-2023_13-06-38-520 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 08-11-2023_13-06-38-553 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 08-11-2023_13-06-38-557 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 08-11-2023_13-06-38-564 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 08-11-2023_13-06-38-573 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 08-11-2023_13-06-38-574 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 08-11-2023_13-06-38-577 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 08-11-2023_13-06-38-579 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 08-11-2023_13-06-38-580 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 08-11-2023_13-06-38-580 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 08-11-2023_13-06-38-580 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 08-11-2023_13-06-38-590 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 08-11-2023_13-06-40-523 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/mandarin.png
+[INFO ] 08-11-2023_13-06-40-530 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/orange.png
+[INFO ] 08-11-2023_13-06-40-547 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/apple.png
+[INFO ] 08-11-2023_13-06-40-549 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/banana.png
+[INFO ] 08-11-2023_19-02-16-946 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 08-11-2023_19-02-16-948 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 08-11-2023_19-02-16-961 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 08-11-2023_19-02-17-156 [main] Server - Initializing session service SERVER clas
+[INFO ] 08-11-2023_19-02-17-157 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 08-11-2023_19-02-17-171 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 08-11-2023_19-02-17-177 [main] CartHandler - print sessions list:
+
+[INFO ] 08-11-2023_19-02-17-191 [main] Server - HTTP Server started at port 8888
+[INFO ] 08-11-2023_19-02-29-474 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 08-11-2023_19-02-29-475 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 08-11-2023_19-02-29-476 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 08-11-2023_19-02-29-478 [HTTP-Dispatcher] Session - building sid
+[INFO ] 08-11-2023_19-02-29-478 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 08-11-2023_19-02-29-479 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@30f630f5
+[INFO ] 08-11-2023_19-02-29-479 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 08-11-2023_19-02-29-480 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@30f630f5
+[INFO ] 08-11-2023_19-02-29-480 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=6d3a1518-d7aa-418c-8180-87634c306a7b; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 08-11-2023_19-02-29-505 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 08-11-2023_19-02-29-506 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 08-11-2023_19-02-29-508 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 08-11-2023_19-02-29-529 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 08-11-2023_19-02-29-536 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 08-11-2023_19-02-29-587 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 08-11-2023_19-02-29-590 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 08-11-2023_19-02-29-592 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 08-11-2023_19-02-29-598 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 08-11-2023_19-02-29-600 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 08-11-2023_19-02-29-602 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 08-11-2023_19-02-30-452 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 08-11-2023_19-02-37-391 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 08-11-2023_19-02-37-411 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 08-11-2023_19-02-37-413 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 08-11-2023_19-02-37-420 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 08-11-2023_19-02-37-424 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 08-11-2023_19-02-37-430 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 08-11-2023_19-02-37-432 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 08-11-2023_19-02-37-438 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 08-11-2023_19-02-37-439 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 08-11-2023_19-02-37-439 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 08-11-2023_19-02-37-439 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 08-11-2023_19-02-37-450 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 08-11-2023_19-02-38-554 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 08-11-2023_19-02-38-562 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 08-11-2023_19-02-38-574 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 08-11-2023_19-02-38-577 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 08-11-2023_19-02-40-935 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 08-11-2023_19-02-40-952 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 08-11-2023_19-02-40-955 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 08-11-2023_19-02-40-957 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 08-11-2023_19-02-40-961 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 08-11-2023_19-02-40-963 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 08-11-2023_19-02-40-966 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 08-11-2023_19-02-40-970 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 08-11-2023_19-02-40-971 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 08-11-2023_19-02-40-971 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 08-11-2023_19-02-40-971 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:37) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:173) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:108) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:68) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 08-11-2023_19-02-40-972 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 08-11-2023_19-02-42-522 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 08-11-2023_19-02-42-528 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 08-11-2023_19-02-42-533 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 08-11-2023_19-02-42-537 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 08-11-2023_19-04-25-028 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 08-11-2023_19-04-25-032 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 08-11-2023_19-04-25-041 [HTTP-Dispatcher] CartHandler - Unknown error: {java.lang.NullPointerException}
+[ERROR] 08-11-2023_19-04-25-042 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.addItemToSessionCart(CartService.java:22) ~[classes/:?]
+	at com.eshop.cart.CartHandler.addItem(CartHandler.java:165) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:135) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:73) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 08-11-2023_19-04-25-044 [HTTP-Dispatcher] CartHandler - java.lang.NullPointerException
+[INFO ] 09-11-2023_08-10-42-957 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 09-11-2023_08-10-42-959 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 09-11-2023_08-10-42-973 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 09-11-2023_08-10-43-098 [main] Server - Initializing session service SERVER clas
+[INFO ] 09-11-2023_08-10-43-098 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 09-11-2023_08-10-43-110 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 09-11-2023_08-10-43-115 [main] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-10-43-124 [main] Server - HTTP Server started at port 8888
+[INFO ] 09-11-2023_08-11-44-952 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 09-11-2023_08-11-44-953 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 09-11-2023_08-11-44-954 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 09-11-2023_08-11-44-955 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_08-11-44-955 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_08-11-44-956 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1b79257b
+[INFO ] 09-11-2023_08-11-44-956 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 09-11-2023_08-11-44-956 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@1b79257b
+[INFO ] 09-11-2023_08-11-44-957 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=9ca1fea2-b567-42d5-a56b-1f92f27055d9; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 09-11-2023_08-11-45-030 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-11-45-036 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 09-11-2023_08-11-45-041 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 09-11-2023_08-11-45-043 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-11-45-124 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-11-46-730 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 09-11-2023_08-11-46-734 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 09-11-2023_08-11-46-739 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 09-11-2023_08-11-46-744 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-11-46-745 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 09-11-2023_08-11-46-747 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 09-11-2023_08-11-46-749 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 09-11-2023_08-15-39-313 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 09-11-2023_08-15-39-316 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 09-11-2023_08-15-39-327 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 09-11-2023_08-15-39-568 [main] Server - Initializing session service SERVER clas
+[INFO ] 09-11-2023_08-15-39-569 [main] SessionService - initializing of sessions map sessionService
+[INFO ] 09-11-2023_08-15-39-583 [main] Server - sessionService debug:com.eshop.session.SessionService
+[INFO ] 09-11-2023_08-15-39-587 [main] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-15-39-600 [main] Server - HTTP Server started at port 8888
+[INFO ] 09-11-2023_08-15-44-656 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 09-11-2023_08-15-44-657 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 09-11-2023_08-15-44-657 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 09-11-2023_08-15-44-662 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_08-15-44-662 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_08-15-44-663 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@24577f15
+[INFO ] 09-11-2023_08-15-44-663 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 09-11-2023_08-15-44-663 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@24577f15
+[INFO ] 09-11-2023_08-15-44-663 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=e442aa22-1655-4191-8095-3cb834ffe5de; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 09-11-2023_08-15-44-698 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-15-44-701 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 09-11-2023_08-15-44-703 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 09-11-2023_08-15-44-704 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-15-44-721 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-15-46-128 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 09-11-2023_08-15-46-135 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 09-11-2023_08-15-46-138 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 09-11-2023_08-15-46-141 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 09-11-2023_08-15-46-144 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 09-11-2023_08-15-46-147 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 09-11-2023_08-15-46-148 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-16-17-871 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 09-11-2023_08-16-17-873 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 09-11-2023_08-16-17-874 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 09-11-2023_08-16-17-875 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_08-16-17-876 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_08-16-17-877 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3a438e40
+[INFO ] 09-11-2023_08-16-17-877 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 09-11-2023_08-16-17-878 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@3a438e40
+[INFO ] 09-11-2023_08-16-17-878 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=adaed3c0-8068-4483-a035-3be231ee1580; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 09-11-2023_08-16-17-904 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-16-17-906 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 09-11-2023_08-16-17-906 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 09-11-2023_08-16-17-907 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-16-17-911 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-16-17-912 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-16-17-914 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-16-20-056 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 09-11-2023_08-16-20-064 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 09-11-2023_08-16-20-077 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 09-11-2023_08-16-20-080 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 09-11-2023_08-16-20-082 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 09-11-2023_08-16-20-084 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 09-11-2023_08-16-22-888 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 09-11-2023_08-16-22-916 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-16-22-923 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 09-11-2023_08-16-22-928 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 09-11-2023_08-16-22-929 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 09-11-2023_08-16-22-930 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-16-22-937 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-16-22-939 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_08-16-22-940 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3a438e40
+[INFO ] 09-11-2023_08-16-22-947 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-16-22-963 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 09-11-2023_08-16-22-967 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 09-11-2023_08-16-22-971 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 09-11-2023_08-16-22-972 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 09-11-2023_08-16-25-549 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-16-25-550 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_08-17-43-695 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 09-11-2023_08-17-43-720 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-17-43-726 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 09-11-2023_08-17-43-728 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 09-11-2023_08-17-43-733 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-17-43-740 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-17-45-438 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 09-11-2023_08-17-45-443 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 09-11-2023_08-17-45-449 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 09-11-2023_08-17-45-455 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 09-11-2023_08-17-45-458 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 09-11-2023_08-17-45-467 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 09-11-2023_08-17-57-074 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 09-11-2023_08-17-57-076 [HTTP-Dispatcher] StaticHandler - first initializing cookies
+[INFO ] 09-11-2023_08-17-57-076 [HTTP-Dispatcher] StaticHandler - creating new Session obj
+[INFO ] 09-11-2023_08-17-57-076 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_08-17-57-076 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_08-17-57-076 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5459e907
+[INFO ] 09-11-2023_08-17-57-076 [HTTP-Dispatcher] StaticHandler - adding Session obj to session list in the session service
+[INFO ] 09-11-2023_08-17-57-077 [HTTP-Dispatcher] StaticHandler - sessionService get session and check attribute 'cart': com.eshop.cart.Cart@5459e907
+[INFO ] 09-11-2023_08-17-57-077 [HTTP-Dispatcher] StaticHandler - Response cookies:
+[sid=ae4ae325-ba54-49b5-8280-5469bfd10e6d; Max-Age=3600; HttpOnly; Path=/;]
+[INFO ] 09-11-2023_08-48-37-881 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 09-11-2023_08-48-37-925 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-48-37-926 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 09-11-2023_08-48-37-927 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 09-11-2023_08-48-37-928 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 09-11-2023_08-48-37-929 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-48-37-934 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-48-37-934 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_08-48-37-935 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3a438e40
+[INFO ] 09-11-2023_08-48-37-935 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-48-37-941 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 09-11-2023_08-48-37-943 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 09-11-2023_08-48-37-945 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 09-11-2023_08-48-37-946 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 09-11-2023_08-48-40-011 [HTTP-Dispatcher] StaticHandler - |||filePathweb/cart.html
+[INFO ] 09-11-2023_08-48-40-041 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/cart.css
+[INFO ] 09-11-2023_08-48-40-044 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-48-40-046 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/cart.js
+[INFO ] 09-11-2023_08-48-40-046 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-48-40-047 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 09-11-2023_08-48-40-054 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-48-40-054 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_08-48-40-054 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3a438e40
+[INFO ] 09-11-2023_08-48-40-055 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-48-40-066 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 09-11-2023_08-48-42-224 [HTTP-Dispatcher] StaticHandler - |||filePathweb/checkout.html
+[INFO ] 09-11-2023_08-48-42-263 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/checkout.js
+[INFO ] 09-11-2023_08-48-42-264 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/checkout.css
+[INFO ] 09-11-2023_08-48-42-264 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-48-42-265 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-48-42-269 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-48-49-972 [HTTP-Dispatcher] StaticHandler - |||filePathweb/index.html
+[INFO ] 09-11-2023_08-48-49-999 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-48-50-001 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-48-50-003 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/index.css
+[INFO ] 09-11-2023_08-48-50-017 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/categories.js
+[INFO ] 09-11-2023_08-48-50-023 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-48-51-662 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/bakery.png
+[INFO ] 09-11-2023_08-48-51-665 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/dairy.png
+[INFO ] 09-11-2023_08-48-51-670 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/vegetables.png
+[INFO ] 09-11-2023_08-48-51-674 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/meats.png
+[INFO ] 09-11-2023_08-48-51-678 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/fruits.png
+[INFO ] 09-11-2023_08-48-51-680 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/categories/drinks.png
+[INFO ] 09-11-2023_08-49-38-676 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 09-11-2023_08-49-38-694 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/general.css
+[INFO ] 09-11-2023_08-49-38-698 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/category.css
+[INFO ] 09-11-2023_08-49-38-699 [HTTP-Dispatcher] StaticHandler - |||filePathweb/css/products.css
+[INFO ] 09-11-2023_08-49-38-706 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/products.js
+[INFO ] 09-11-2023_08-49-38-709 [HTTP-Dispatcher] StaticHandler - |||filePathweb/js/fontsizechanger.js
+[INFO ] 09-11-2023_08-49-38-714 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/all/logo.png
+[INFO ] 09-11-2023_08-49-38-715 [HTTP-Dispatcher] CartHandler - print sessions list:
+
+[INFO ] 09-11-2023_08-49-38-715 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_08-49-38-715 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3a438e40
+[INFO ] 09-11-2023_08-49-38-721 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/butter.png
+[INFO ] 09-11-2023_08-49-38-722 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/eggs.png
+[INFO ] 09-11-2023_08-49-38-724 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/curd.png
+[INFO ] 09-11-2023_08-49-38-726 [HTTP-Dispatcher] StaticHandler - |||filePathweb/img/products/cheese.png
+[INFO ] 09-11-2023_08-49-47-816 [HTTP-Dispatcher] StaticHandler - |||filePathweb/category.html
+[INFO ] 09-11-2023_11-26-11-732 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 09-11-2023_11-26-11-734 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 09-11-2023_11-26-11-746 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 09-11-2023_11-26-12-059 [main] Server - HTTP Server started at port 8888
+[INFO ] 09-11-2023_11-26-32-775 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_11-26-32-776 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_11-26-32-778 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-50-540 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-50-541 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-53-681 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-53-682 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-54-909 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-54-910 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-55-488 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-55-488 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-55-907 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-55-909 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-56-349 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-56-349 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-57-074 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-57-074 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-57-695 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-57-695 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-58-304 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-58-305 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-58-923 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-26-58-923 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-26-59-744 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-00-739 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-00-739 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-27-08-205 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-08-205 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-27-12-475 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-13-769 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-13-769 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-27-15-507 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-15-524 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-27-17-631 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-27-17-633 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@188d79ce
+[INFO ] 09-11-2023_11-28-18-121 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_11-28-18-122 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_11-28-18-123 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1a1e4537
+[INFO ] 09-11-2023_11-28-24-894 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-28-24-895 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1a1e4537
+[INFO ] 09-11-2023_11-28-58-457 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/fullPerfomace-step-by-step/performance-testing-step-by-step/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 09-11-2023_11-28-58-459 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 09-11-2023_11-28-58-470 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 09-11-2023_11-28-58-647 [main] Server - HTTP Server started at port 8888
