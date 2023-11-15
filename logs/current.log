@@ -1108,3 +1108,2256 @@ com.eshop.cart.Cart@1a1e4537
 [INFO ] 09-11-2023_11-28-58-459 [main] ConfigLoader - Config file was successfully loaded
 [INFO ] 09-11-2023_11-28-58-470 [main] DatabaseConnector - Database connection was successfully established
 [INFO ] 09-11-2023_11-28-58-647 [main] Server - HTTP Server started at port 8888
+[INFO ] 09-11-2023_11-37-36-889 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 09-11-2023_11-37-36-894 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 09-11-2023_11-37-36-908 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 09-11-2023_11-37-37-173 [main] Server - HTTP Server started at port 8888
+[INFO ] 09-11-2023_11-37-41-252 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_11-37-41-259 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_11-37-41-261 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@bde3a40
+[INFO ] 09-11-2023_11-37-43-083 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-37-43-084 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 09-11-2023_11-37-44-111 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_11-37-50-208 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_11-37-50-209 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_11-37-50-209 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@a413a5
+[INFO ] 09-11-2023_19-02-06-907 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 09-11-2023_19-02-06-910 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 09-11-2023_19-02-06-923 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 09-11-2023_19-02-07-196 [main] Server - HTTP Server started at port 8888
+[INFO ] 09-11-2023_19-02-58-278 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_19-02-58-280 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_19-02-58-281 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 09-11-2023_19-02-59-634 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-02-59-634 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 09-11-2023_19-03-37-407 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-03-37-407 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 09-11-2023_19-03-39-988 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-03-39-988 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 09-11-2023_19-03-41-923 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-03-45-988 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-03-45-988 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 09-11-2023_19-03-52-764 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-03-52-772 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 09-11-2023_19-11-23-472 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_19-11-23-474 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_19-11-23-475 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6bfee027
+[INFO ] 09-11-2023_19-11-40-592 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-11-40-593 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bfee027
+[INFO ] 09-11-2023_19-11-42-270 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-11-42-270 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bfee027
+[INFO ] 09-11-2023_19-11-43-406 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-11-45-221 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-11-45-221 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bfee027
+[INFO ] 09-11-2023_19-11-47-976 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-11-47-977 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bfee027
+[INFO ] 09-11-2023_19-12-54-617 [HTTP-Dispatcher] Session - building sid
+[INFO ] 09-11-2023_19-12-54-620 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 09-11-2023_19-12-54-621 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-17-27-354 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-17-27-355 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-17-57-136 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-17-57-136 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-20-10-388 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-20-10-389 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-21-51-567 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-21-51-568 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-21-54-821 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-21-54-822 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-21-56-891 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-22-04-669 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-22-04-669 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 09-11-2023_19-22-09-971 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 09-11-2023_19-22-09-972 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@59e3032
+[INFO ] 10-11-2023_10-57-57-915 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_10-57-57-917 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_10-57-57-917 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3d6e07b7
+[INFO ] 10-11-2023_11-30-42-618 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_11-30-42-620 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_11-30-42-620 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2fc6dbae
+[INFO ] 10-11-2023_11-58-04-956 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 10-11-2023_11-58-04-958 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 10-11-2023_11-58-04-974 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 10-11-2023_11-58-05-335 [main] Server - HTTP Server started at port 8888
+[INFO ] 10-11-2023_11-58-14-026 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_11-58-14-029 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_11-58-18-556 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_11-58-18-557 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_11-58-25-324 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_11-58-25-333 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.addItemToSessionCart(CartService.java:19) ~[classes/:?]
+	at com.eshop.cart.CartHandler.addItem(CartHandler.java:155) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:125) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_11-58-26-848 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_11-58-26-848 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.addItemToSessionCart(CartService.java:19) ~[classes/:?]
+	at com.eshop.cart.CartHandler.addItem(CartHandler.java:155) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:125) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_11-59-00-849 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 10-11-2023_11-59-00-851 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 10-11-2023_11-59-00-863 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 10-11-2023_11-59-01-043 [main] Server - HTTP Server started at port 8888
+[INFO ] 10-11-2023_11-59-09-329 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_11-59-09-332 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_11-59-09-334 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-10-332 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-10-332 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-11-686 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-12-978 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-12-979 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-15-927 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-15-927 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-17-359 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-17-359 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-22-955 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-22-975 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-23-748 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-23-750 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-26-078 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-26-082 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_11-59-58-935 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_11-59-58-935 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-51-372 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-51-381 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-52-699 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-52-700 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-53-464 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-53-464 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-54-205 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-54-210 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-55-066 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-55-066 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-55-929 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-55-930 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-56-606 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-56-606 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-57-346 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-57-347 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-09-58-695 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-09-58-695 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-10-23-661 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-10-23-662 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-31-03-975 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-31-03-978 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-31-03-978 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@35cc3bde
+[INFO ] 10-11-2023_12-42-36-717 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-42-36-718 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-43-08-471 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-43-08-472 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-43-08-472 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@68bacac2
+[INFO ] 10-11-2023_12-45-42-066 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_12-45-42-067 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 10-11-2023_12-48-32-209 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-48-32-211 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-48-32-211 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@7ce1408c
+[INFO ] 10-11-2023_12-50-08-520 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-50-08-521 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-50-08-521 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3c1f04bf
+[INFO ] 10-11-2023_12-54-03-920 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-54-03-921 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-54-03-921 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@23449f39
+[INFO ] 10-11-2023_12-54-31-926 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-54-31-927 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-54-31-927 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2d5daebc
+[INFO ] 10-11-2023_12-57-47-306 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-57-47-308 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-57-47-308 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5a75ea23
+[INFO ] 10-11-2023_12-59-43-178 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_12-59-43-179 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_12-59-43-179 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@83a9a39
+[INFO ] 10-11-2023_13-02-30-144 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_13-02-30-145 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_13-02-30-145 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@639dcb3e
+[INFO ] 10-11-2023_13-02-45-645 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_13-02-45-646 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_13-02-45-646 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@61c235d5
+[INFO ] 10-11-2023_13-06-36-845 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_13-06-36-846 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_13-06-36-846 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@601b089c
+[INFO ] 10-11-2023_13-37-35-554 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_13-37-35-555 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@61c235d5
+[INFO ] 10-11-2023_13-37-42-100 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_13-37-42-100 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@61c235d5
+[INFO ] 10-11-2023_13-39-35-182 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-11-14-934 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 10-11-2023_14-11-14-938 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 10-11-2023_14-11-14-952 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 10-11-2023_14-11-18-101 [main] Server - HTTP Server started at port 8888
+[INFO ] 10-11-2023_14-11-43-177 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_14-11-43-178 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_14-11-43-179 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-11-44-375 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-11-44-377 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-11-45-233 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-11-45-233 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-11-45-741 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-11-45-742 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-11-47-548 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-11-56-831 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-12-18-010 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-12-21-199 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-12-21-199 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-16-17-126 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-16-17-128 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-16-22-994 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-16-22-994 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-16-26-432 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-16-26-434 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-16-29-466 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-16-29-473 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-16-38-727 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-16-38-728 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-16-44-117 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-23-31-724 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_14-23-31-727 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_14-23-31-728 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@31bb1ab4
+[INFO ] 10-11-2023_14-24-00-741 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_14-24-00-742 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_14-26-15-679 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-26-15-683 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@31bb1ab4
+[INFO ] 10-11-2023_14-26-43-381 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_14-26-43-382 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_14-28-16-240 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_14-28-16-242 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_14-28-40-915 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-28-40-915 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-28-42-407 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-28-44-470 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-28-45-993 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-28-45-993 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-28-49-379 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-28-49-382 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-29-09-972 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_14-29-09-973 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_14-29-23-614 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_14-29-23-615 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6bad553a
+[INFO ] 10-11-2023_14-30-09-356 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_14-30-09-360 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_14-34-02-442 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_14-34-02-446 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_14-34-02-446 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2c576120
+[INFO ] 10-11-2023_14-34-22-198 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 10-11-2023_14-34-22-198 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_16-09-03-547 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_16-09-03-548 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_16-09-03-548 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@24b552e
+[INFO ] 10-11-2023_16-09-03-598 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_16-09-03-600 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_16-09-03-600 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@24b552e
+[INFO ] 10-11-2023_17-11-53-812 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_17-11-53-813 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_17-11-53-813 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@63c1eef3
+[INFO ] 10-11-2023_17-11-53-863 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-11-53-864 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-11-53-864 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@63c1eef3
+[INFO ] 10-11-2023_17-11-53-867 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-11-53-868 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@63c1eef3
+[INFO ] 10-11-2023_17-11-53-876 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-11-53-876 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@63c1eef3
+[ERROR] 10-11-2023_17-11-53-879 [HTTP-Dispatcher] CheckoutHandler - Request body wrong format: {}
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:501) ~[json-20230227.jar:?]
+	at org.json.JSONObject.<init>(JSONObject.java:208) ~[json-20230227.jar:?]
+	at org.json.JSONObject.<init>(JSONObject.java:404) ~[json-20230227.jar:?]
+	at com.eshop.utils.StreamConventer.getJsonFromInStream(StreamConventer.java:23) ~[classes/:?]
+	at com.eshop.checkout.CheckoutHandler.handlePost(CheckoutHandler.java:86) [classes/:?]
+	at com.eshop.checkout.CheckoutHandler.handle(CheckoutHandler.java:56) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_17-14-50-078 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_17-14-50-081 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_17-14-50-082 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@15a2602d
+[INFO ] 10-11-2023_17-14-50-141 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-14-50-143 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-14-50-143 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@15a2602d
+[INFO ] 10-11-2023_17-14-50-147 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-14-50-148 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@15a2602d
+[INFO ] 10-11-2023_17-14-50-158 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-14-50-158 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@15a2602d
+[ERROR] 10-11-2023_17-14-50-160 [HTTP-Dispatcher] CheckoutHandler - Request body wrong format: {}
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:501) ~[json-20230227.jar:?]
+	at org.json.JSONObject.<init>(JSONObject.java:208) ~[json-20230227.jar:?]
+	at org.json.JSONObject.<init>(JSONObject.java:404) ~[json-20230227.jar:?]
+	at com.eshop.utils.StreamConventer.getJsonFromInStream(StreamConventer.java:23) ~[classes/:?]
+	at com.eshop.checkout.CheckoutHandler.handlePost(CheckoutHandler.java:86) [classes/:?]
+	at com.eshop.checkout.CheckoutHandler.handle(CheckoutHandler.java:56) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_17-16-14-964 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_17-16-14-965 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_17-16-14-966 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5dbf020f
+[INFO ] 10-11-2023_17-16-15-020 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-15-021 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-15-021 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5dbf020f
+[INFO ] 10-11-2023_17-16-15-024 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-15-024 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5dbf020f
+[INFO ] 10-11-2023_17-16-15-033 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-15-033 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5dbf020f
+[ERROR] 10-11-2023_17-16-15-035 [HTTP-Dispatcher] CheckoutHandler - Request body wrong format: {}
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+	at org.json.JSONTokener.syntaxError(JSONTokener.java:501) ~[json-20230227.jar:?]
+	at org.json.JSONObject.<init>(JSONObject.java:208) ~[json-20230227.jar:?]
+	at org.json.JSONObject.<init>(JSONObject.java:404) ~[json-20230227.jar:?]
+	at com.eshop.utils.StreamConventer.getJsonFromInStream(StreamConventer.java:23) ~[classes/:?]
+	at com.eshop.checkout.CheckoutHandler.handlePost(CheckoutHandler.java:86) [classes/:?]
+	at com.eshop.checkout.CheckoutHandler.handle(CheckoutHandler.java:56) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 10-11-2023_17-16-57-084 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_17-16-57-085 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_17-16-57-085 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5f762dba
+[INFO ] 10-11-2023_17-16-57-128 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-57-129 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-57-129 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5f762dba
+[INFO ] 10-11-2023_17-16-57-132 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-57-133 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5f762dba
+[INFO ] 10-11-2023_17-16-57-140 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_17-16-57-140 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5f762dba
+[INFO ] 10-11-2023_18-16-54-258 [HTTP-Dispatcher] Session - building sid
+[INFO ] 10-11-2023_18-16-54-261 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 10-11-2023_18-16-54-261 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@478c851
+[INFO ] 10-11-2023_18-16-55-661 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_18-16-55-661 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@478c851
+[INFO ] 10-11-2023_18-16-57-191 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_18-17-05-262 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_18-17-05-262 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@478c851
+[INFO ] 10-11-2023_18-46-01-393 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_18-46-01-398 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@478c851
+[INFO ] 10-11-2023_18-46-15-833 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 10-11-2023_18-46-15-836 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@478c851
+[INFO ] 13-11-2023_11-01-18-822 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_11-01-18-824 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_11-01-18-841 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_11-01-19-235 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_11-01-32-786 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-01-32-787 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-01-32-788 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_11-01-45-184 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-01-45-185 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_11-01-48-449 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-01-48-449 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_11-01-49-314 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-01-49-442 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-01-50-562 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-01-50-562 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_11-05-17-571 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_11-05-17-574 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_11-05-17-590 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_11-05-17-795 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_11-05-35-031 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-05-35-036 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-05-38-852 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-05-38-853 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-05-38-855 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@7abb3417
+[INFO ] 13-11-2023_11-05-39-976 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-05-39-977 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@7abb3417
+[INFO ] 13-11-2023_11-05-41-094 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-05-41-857 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-05-41-858 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@7abb3417
+[INFO ] 13-11-2023_11-25-13-398 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_11-25-13-399 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_11-25-13-412 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_11-25-13-737 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_11-25-27-288 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-25-27-290 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-25-27-292 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@41e5dc4e
+[INFO ] 13-11-2023_11-25-28-281 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-25-28-282 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@41e5dc4e
+[INFO ] 13-11-2023_11-25-29-127 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-25-29-261 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-25-29-385 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-25-29-931 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-25-29-931 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@41e5dc4e
+[INFO ] 13-11-2023_11-28-15-484 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_11-28-15-486 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_11-28-15-500 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_11-28-15-721 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_11-28-26-795 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-28-26-796 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-28-26-797 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@31126ad3
+[INFO ] 13-11-2023_11-28-27-823 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-28-27-823 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@31126ad3
+[INFO ] 13-11-2023_11-28-28-794 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-28-28-953 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-28-29-495 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-28-29-496 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@31126ad3
+[INFO ] 13-11-2023_11-33-55-058 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_11-33-55-060 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_11-33-55-072 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_11-33-55-310 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_11-34-13-532 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-34-13-533 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-34-13-534 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-34-14-602 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-34-14-603 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-34-15-717 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-34-15-834 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-34-15-954 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-34-16-600 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-34-16-600 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-37-34-515 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-37-34-539 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-37-35-835 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-37-35-835 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-37-50-610 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-37-50-613 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-37-50-787 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-37-50-788 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-37-50-941 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-37-50-941 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5d234dc2
+[INFO ] 13-11-2023_11-40-40-545 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_11-40-40-547 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_11-40-40-558 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_11-40-40-869 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_11-40-50-973 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-40-50-974 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-40-50-976 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-40-51-981 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-40-51-982 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-40-53-043 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-40-53-275 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-40-54-011 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-40-54-012 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-41-22-365 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-41-22-380 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-41-27-994 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-41-27-994 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-41-28-790 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-41-28-793 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-42-55-779 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-42-55-782 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-42-56-687 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-42-57-329 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-42-58-616 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-42-59-182 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-42-59-953 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-42-59-953 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-48-32-991 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-48-32-996 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-50-11-564 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_11-50-11-567 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_11-50-11-568 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@4d58c33f
+[INFO ] 13-11-2023_11-50-27-585 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-50-27-587 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-51-15-980 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-51-15-984 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-53-44-834 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-53-44-835 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-55-15-342 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-55-15-345 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-56-20-133 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_11-56-20-136 [HTTP-Dispatcher] CartHandler - Request body wrong format: {}
+org.json.JSONException: JSONObject["id"] not found.
+	at org.json.JSONObject.get(JSONObject.java:570) ~[json-20230227.jar:?]
+	at org.json.JSONObject.getInt(JSONObject.java:742) ~[json-20230227.jar:?]
+	at com.eshop.cart.CartHandler.parseProduct(CartHandler.java:188) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:124) [classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:65) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_11-57-55-299 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-57-55-302 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-57-56-006 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-57-56-007 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-03-328 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-03-330 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-03-887 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-03-887 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-04-323 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-04-324 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-06-253 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-06-255 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-07-618 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-07-619 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-08-990 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-08-991 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-18-622 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_11-58-18-622 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_11-58-20-079 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-03-21-347 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-03-31-145 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_12-03-31-146 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_12-03-41-319 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[ERROR] 13-11-2023_12-03-41-320 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:34) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:163) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:98) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:60) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 13-11-2023_12-14-42-161 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-14-42-163 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_12-15-06-207 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-15-06-208 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_12-15-06-911 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-15-06-911 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1185043a
+[INFO ] 13-11-2023_12-15-30-365 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-15-30-369 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4d58c33f
+[INFO ] 13-11-2023_12-16-01-254 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-16-04-116 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_12-16-04-117 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4d58c33f
+[INFO ] 13-11-2023_13-18-30-786 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-18-30-788 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-18-30-801 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-18-31-129 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-18-37-782 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-18-37-783 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-18-37-784 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3cc6b740
+[INFO ] 13-11-2023_13-18-41-005 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-18-41-005 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3cc6b740
+[INFO ] 13-11-2023_13-18-42-390 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-18-43-720 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-18-44-512 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-18-44-513 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3cc6b740
+[INFO ] 13-11-2023_13-18-47-628 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-18-47-629 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3cc6b740
+[INFO ] 13-11-2023_13-19-35-468 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-19-35-469 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-19-35-481 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-19-35-654 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-19-48-877 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-19-48-889 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-19-48-891 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6ba97d22
+[INFO ] 13-11-2023_13-19-50-024 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-19-50-024 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6ba97d22
+[INFO ] 13-11-2023_13-19-51-087 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-19-51-708 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-19-52-659 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-19-52-660 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6ba97d22
+[INFO ] 13-11-2023_13-19-56-895 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-19-56-897 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6ba97d22
+[INFO ] 13-11-2023_13-22-19-545 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-22-19-549 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6ba97d22
+[INFO ] 13-11-2023_13-32-34-156 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-32-34-158 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-32-34-172 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-32-34-326 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-32-48-070 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-32-48-071 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-32-48-073 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_13-32-49-038 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-32-49-039 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_13-32-50-307 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-32-50-687 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-32-51-337 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-32-51-338 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_13-32-54-416 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-32-54-418 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_13-33-22-431 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-33-22-435 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_13-33-41-762 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-33-41-766 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_13-48-05-805 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-48-05-807 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-48-05-822 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-48-06-274 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-48-09-248 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-48-09-248 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-48-09-249 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-10-151 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-10-152 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-12-338 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-12-959 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-13-871 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-13-872 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-15-981 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-15-982 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-15-987 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-15-992 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-15-994 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-15-994 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-27-866 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-27-868 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-48-37-501 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-48-37-504 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-31-075 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-31-082 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-38-888 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-38-891 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-40-899 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-40-900 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-43-232 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-43-235 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-43-966 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-44-763 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-44-764 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-48-930 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-48-930 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-48-938 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-48-939 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-56-286 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-56-287 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-58-353 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-49-58-354 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-49-59-135 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-00-547 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-02-259 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-03-335 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-03-336 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-50-08-032 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-08-033 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-50-08-037 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-08-037 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-50-08-038 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-08-038 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-50-08-039 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-50-08-039 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 13-11-2023_13-53-32-691 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-53-32-693 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-53-32-706 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-53-33-037 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-53-38-360 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-53-38-363 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-53-38-365 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-53-39-335 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-39-340 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-53-40-658 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-41-557 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-44-832 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-44-832 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-53-50-585 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-50-586 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-53-50-598 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-50-605 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-53-50-606 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-53-50-607 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-54-29-677 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-54-29-679 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_13-58-07-777 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-58-07-779 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-58-07-792 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-58-08-022 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-58-14-099 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-58-14-100 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-58-14-100 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@75f8e9d1
+[INFO ] 13-11-2023_13-58-15-137 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-58-15-138 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 13-11-2023_13-58-15-861 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-58-17-237 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-58-18-202 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-58-18-203 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 13-11-2023_13-58-21-473 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-58-21-473 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 13-11-2023_13-59-31-345 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_13-59-31-348 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_13-59-31-360 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_13-59-31-680 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_13-59-37-579 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_13-59-37-580 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_13-59-37-580 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@4378defb
+[INFO ] 13-11-2023_13-59-38-512 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-38-512 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4378defb
+[INFO ] 13-11-2023_13-59-39-867 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-40-702 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-41-616 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-41-616 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4378defb
+[INFO ] 13-11-2023_13-59-45-118 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-45-122 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4378defb
+[INFO ] 13-11-2023_13-59-45-131 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-45-146 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4378defb
+[INFO ] 13-11-2023_13-59-45-149 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_13-59-45-149 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@4378defb
+[INFO ] 13-11-2023_14-03-43-392 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_14-03-43-394 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_14-03-43-408 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_14-03-43-611 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_14-03-49-943 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_14-03-49-948 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_14-03-49-950 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-03-50-761 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-50-762 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-03-51-387 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-51-795 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-52-437 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-52-438 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-03-55-056 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-55-056 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-03-55-060 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-55-074 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-03-55-077 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-03-55-077 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-04-30-394 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-30-399 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-04-35-561 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-35-562 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-04-36-218 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-36-902 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-40-038 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-40-039 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-04-43-370 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-43-371 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-04-43-380 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-43-381 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-04-43-389 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-04-43-390 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-06-08-417 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-06-08-422 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_14-07-25-727 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_14-07-25-729 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_14-07-25-743 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_14-07-26-114 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_14-07-48-162 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_14-07-48-164 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_14-07-48-168 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6de20dde
+[INFO ] 13-11-2023_14-07-49-193 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-07-49-193 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 13-11-2023_14-07-49-766 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-07-50-534 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-07-51-851 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-07-51-852 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 13-11-2023_14-11-15-363 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_14-11-15-365 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_14-11-15-379 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_14-11-15-615 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_14-12-56-827 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_14-12-56-829 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_14-12-56-830 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_14-13-02-059 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-13-02-059 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_14-13-03-969 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-13-04-632 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-13-05-605 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-13-05-610 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_14-14-07-641 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_14-14-07-643 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_14-14-07-654 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_14-14-07-972 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_14-14-23-489 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_14-14-23-492 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_14-14-23-493 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_14-14-27-485 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-14-27-487 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_14-14-28-320 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-14-29-313 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-14-30-357 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-14-30-359 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3e4c4e50
+[INFO ] 13-11-2023_14-16-54-117 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_14-16-54-120 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_14-16-54-131 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_14-16-54-333 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_14-17-00-826 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_14-17-00-828 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_14-17-00-831 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_14-17-14-869 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-17-14-870 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_14-17-15-654 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-17-17-129 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-17-20-736 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_14-17-20-737 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_18-18-10-267 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_18-18-10-269 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_18-18-10-280 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_18-18-10-591 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_18-18-16-322 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_18-18-16-323 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_18-18-16-324 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-17-360 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-17-360 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-18-224 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-19-454 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-19-454 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-24-654 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-24-654 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-25-588 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-26-512 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-26-512 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-41-602 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-41-618 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-44-521 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-44-528 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-52-731 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-52-731 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-18-53-916 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-54-892 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-18-54-893 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-31-12-095 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_18-31-12-098 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_18-31-12-110 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_18-31-12-369 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_18-31-18-745 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_18-31-18-749 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_18-31-18-752 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-31-19-997 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-31-19-997 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-31-20-958 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-31-21-870 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-31-22-873 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-31-22-874 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_18-31-25-627 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_18-33-37-692 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-08-28-801 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-08-28-803 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-08-28-816 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-08-29-108 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-08-35-293 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-08-35-294 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-08-35-297 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-08-36-131 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-08-36-132 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-08-37-296 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-08-37-738 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-08-38-597 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-08-38-597 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-08-40-646 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-09-23-257 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-09-31-781 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-11-20-331 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-11-20-338 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-11-20-353 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-11-20-535 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-11-25-018 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-11-25-019 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-11-25-019 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@355ce5bf
+[INFO ] 13-11-2023_19-11-26-371 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-11-26-372 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@355ce5bf
+[INFO ] 13-11-2023_19-11-27-470 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-11-29-064 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-11-29-832 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-11-29-837 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@355ce5bf
+[INFO ] 13-11-2023_19-11-31-028 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-21-34-246 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-21-34-248 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-21-34-262 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-21-34-614 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-22-40-906 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-22-40-911 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-22-40-912 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-22-42-029 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-22-42-030 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-22-42-684 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-22-43-036 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-22-43-692 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-22-43-693 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-23-00-668 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-23-00-669 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-23-05-695 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-23-05-695 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-24-06-190 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-24-19-654 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-24-19-655 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-24-20-374 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-24-20-375 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3bb2d3c1
+[INFO ] 13-11-2023_19-49-16-675 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-49-16-678 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-49-16-690 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-49-16-966 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-49-23-504 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-49-23-505 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-49-23-506 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@31126ad3
+[INFO ] 13-11-2023_19-49-24-393 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-49-24-393 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@31126ad3
+[INFO ] 13-11-2023_19-49-24-956 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-49-26-130 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-49-27-271 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-49-27-271 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@31126ad3
+[INFO ] 13-11-2023_19-49-30-152 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-49-30-163 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 13-11-2023_19-49-30-164 [HTTP-Dispatcher] Cart - Item: butter, quantity: 1
+[INFO ] 13-11-2023_19-49-30-164 [HTTP-Dispatcher] Cart - 
+Item exist!true
+
+[INFO ] 13-11-2023_19-49-30-165 [HTTP-Dispatcher] Cart - Started to remove item: butter
+
+[INFO ] 13-11-2023_19-50-51-451 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-50-51-453 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-50-51-465 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-50-51-625 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-50-54-903 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-50-54-906 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-50-54-909 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@bde3a40
+[INFO ] 13-11-2023_19-50-56-042 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-50-56-042 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 13-11-2023_19-50-56-738 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-50-57-124 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-50-57-823 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-50-57-823 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 13-11-2023_19-50-58-717 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-50-58-719 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 13-11-2023_19-50-58-724 [HTTP-Dispatcher] Cart - Item: butter, quantity: 1
+[INFO ] 13-11-2023_19-50-58-724 [HTTP-Dispatcher] Cart - 
+Item exist!true
+
+[INFO ] 13-11-2023_19-50-58-726 [HTTP-Dispatcher] Cart - Started to remove item: butter
+
+[INFO ] 13-11-2023_19-54-09-887 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-54-09-914 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-54-10-002 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-54-10-194 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-54-21-204 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-54-21-205 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-54-21-206 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_19-54-22-037 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-54-22-038 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_19-54-23-168 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-54-23-714 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-54-24-513 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-54-24-513 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1e41f7d2
+[INFO ] 13-11-2023_19-54-25-220 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-54-25-222 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 13-11-2023_19-54-25-222 [HTTP-Dispatcher] Cart - 
+Item: butter, quantity: 1
+[INFO ] 13-11-2023_19-54-25-222 [HTTP-Dispatcher] Cart - 
+Item exist! - true
+
+[INFO ] 13-11-2023_19-54-25-223 [HTTP-Dispatcher] Cart - !!Started to remove item: butter
+
+[INFO ] 13-11-2023_19-56-01-428 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 13-11-2023_19-56-01-430 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 13-11-2023_19-56-01-442 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 13-11-2023_19-56-01-709 [main] Server - HTTP Server started at port 8888
+[INFO ] 13-11-2023_19-56-04-347 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_19-56-04-347 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_19-56-04-348 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_19-56-05-177 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-56-05-177 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_19-56-06-057 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-56-06-453 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-56-07-016 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-56-07-016 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1dd643f1
+[INFO ] 13-11-2023_19-56-07-827 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_19-56-07-829 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 13-11-2023_19-56-07-832 [HTTP-Dispatcher] Cart - 
+Item: butter, quantity: 1
+[INFO ] 13-11-2023_19-56-07-832 [HTTP-Dispatcher] Cart - 
+Item exist! - true
+
+[INFO ] 13-11-2023_19-56-07-833 [HTTP-Dispatcher] Cart - !!Started to remove item: butter
+
+[INFO ] 13-11-2023_23-28-15-226 [HTTP-Dispatcher] Session - building sid
+[INFO ] 13-11-2023_23-28-15-227 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 13-11-2023_23-28-15-228 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@676ceb20
+[INFO ] 13-11-2023_23-28-16-903 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_23-28-16-903 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@676ceb20
+[INFO ] 13-11-2023_23-28-18-170 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_23-28-19-336 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_23-28-19-336 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@676ceb20
+[INFO ] 13-11-2023_23-28-27-405 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_23-28-27-405 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 13-11-2023_23-28-27-406 [HTTP-Dispatcher] Cart - 
+Item: butter, quantity: 1
+[INFO ] 13-11-2023_23-28-27-406 [HTTP-Dispatcher] Cart - 
+Item exist! - true
+
+[INFO ] 13-11-2023_23-28-27-406 [HTTP-Dispatcher] Cart - !!Started to remove item: butter
+
+[INFO ] 13-11-2023_23-28-32-728 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 13-11-2023_23-28-32-728 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@676ceb20
+[INFO ] 14-11-2023_09-05-44-422 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-05-44-424 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-05-44-437 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-05-44-838 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-05-49-540 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-05-49-541 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-05-49-542 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2f463e89
+[INFO ] 14-11-2023_09-05-50-520 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-05-50-521 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2f463e89
+[INFO ] 14-11-2023_09-05-51-345 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-05-52-118 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-05-52-805 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-05-52-808 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2f463e89
+[INFO ] 14-11-2023_09-13-16-197 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-13-16-199 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-13-16-213 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-13-16-548 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-13-18-024 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-13-18-025 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-13-18-028 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-13-18-945 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-13-18-947 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-13-19-606 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-13-20-231 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-13-20-866 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-13-20-866 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-13-26-306 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-13-26-315 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-13-26-316 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":1,"cartItems":[{"product":{"price":2.15,"name":"eggs","description":"10","id":2},"quantity":1,"totalPrice":2.15}],"subtotalPrice":2.15}}
+[INFO ] 14-11-2023_09-13-59-101 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-13-59-104 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-13-59-776 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-14-00-908 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-14-00-908 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-14-03-484 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-14-03-487 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@bde3a40
+[INFO ] 14-11-2023_09-14-03-488 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":3,"cartItems":[{"product":{"price":2.15,"name":"eggs","description":"10","id":2},"quantity":2,"totalPrice":4.3},{"product":{"price":1.99,"name":"cucumber","description":"200g","id":17},"quantity":1,"totalPrice":1.99}],"subtotalPrice":6.29}}
+[INFO ] 14-11-2023_09-36-33-004 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-36-33-006 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-36-33-017 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-36-33-363 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-36-36-286 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-36-36-287 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-36-36-288 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_09-36-37-384 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-36-37-385 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_09-36-38-004 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-36-38-686 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-36-39-578 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-36-39-579 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_09-37-42-021 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-37-42-028 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-37-42-050 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-37-42-294 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-37-48-668 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-37-48-674 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-37-48-679 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-37-49-803 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-37-49-804 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-37-50-570 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-37-51-224 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-37-51-868 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-37-51-868 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-37-53-406 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-37-53-407 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_09-37-53-414 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_09-37-53-415 [HTTP-Dispatcher] Cart - Item exist! - true
+
+[INFO ] 14-11-2023_09-37-53-416 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_09-37-53-417 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-41-53-869 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-41-53-871 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-41-53-883 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-41-54-236 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-41-59-116 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-41-59-118 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-41-59-119 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-42-00-134 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-42-00-135 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-42-01-237 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-42-01-961 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-42-02-668 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-42-02-668 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-42-03-723 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-42-03-728 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_09-42-03-730 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_09-42-03-731 [HTTP-Dispatcher] Cart - Item exist! - true
+
+[INFO ] 14-11-2023_09-42-03-731 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_09-42-03-732 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6de20dde
+[INFO ] 14-11-2023_09-44-17-618 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-44-17-620 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-44-17-631 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-44-17-872 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-44-20-748 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-44-20-749 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-44-20-751 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_09-44-21-853 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-44-21-855 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_09-44-22-431 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-44-23-123 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-44-24-822 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-44-24-822 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_09-44-25-874 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-44-25-875 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_09-44-25-876 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_09-44-25-876 [HTTP-Dispatcher] Cart - Item exist! - true
+
+[INFO ] 14-11-2023_09-44-25-876 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_09-44-25-878 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_09-51-28-278 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_09-51-28-280 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_09-51-28-290 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_09-51-28-507 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_09-51-31-653 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_09-51-31-654 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_09-51-31-656 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_09-51-32-699 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-51-32-701 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_09-51-33-396 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-51-34-038 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-51-34-858 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-51-34-858 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_09-51-36-815 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-51-36-823 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_09-51-36-824 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_09-51-36-825 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_09-51-36-825 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_09-51-36-826 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_09-51-46-584 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_09-51-46-585 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_10-08-00-301 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-08-00-303 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-08-00-314 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-08-00-517 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-08-12-226 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-08-12-226 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-08-12-227 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 14-11-2023_10-08-13-416 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-08-13-417 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3ce28e75
+[INFO ] 14-11-2023_10-08-14-813 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-08-15-385 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-08-16-342 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-08-16-343 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3ce28e75
+[INFO ] 14-11-2023_10-08-18-472 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-08-18-474 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_10-08-18-477 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_10-08-18-478 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_10-08-18-483 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_10-12-35-283 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-12-35-285 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-12-35-299 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-12-35-685 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-12-48-882 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-12-48-883 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-12-48-886 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@30f630f5
+[INFO ] 14-11-2023_10-12-49-662 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-12-49-663 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@30f630f5
+[INFO ] 14-11-2023_10-12-51-987 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-12-52-449 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-12-53-090 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-12-53-091 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@30f630f5
+[INFO ] 14-11-2023_10-12-54-734 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-12-54-738 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_10-12-54-739 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_10-12-54-741 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_10-12-54-741 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_10-15-50-340 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-15-50-342 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-15-50-354 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-15-50-564 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-15-52-868 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-15-52-870 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-15-52-871 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-15-53-864 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-15-53-865 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-15-54-601 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-15-55-131 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-15-56-027 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-15-56-028 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-15-57-450 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-15-57-453 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_10-15-57-454 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_10-15-57-456 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_10-15-57-456 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_10-16-01-762 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-01-762 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-06-711 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-06-711 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-09-152 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-09-152 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-14-889 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-14-889 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-17-227 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-17-227 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-18-084 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-18-971 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-18-971 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-24-101 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-24-116 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-24-118 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":1,"cartItems":[{"product":{"price":1.49,"name":"mandarin","description":"50","id":16},"quantity":1,"totalPrice":1.49}],"subtotalPrice":1.49}}
+[INFO ] 14-11-2023_10-16-26-842 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-26-842 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-28-925 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-30-658 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-30-662 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-34-877 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-34-881 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-35-927 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-36-623 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-36-624 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-42-109 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-42-109 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-42-705 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-42-705 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-16-44-069 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-16-44-071 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_10-16-44-072 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 2
+[INFO ] 14-11-2023_10-16-44-072 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_10-16-44-072 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_10-17-02-131 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-17-02-132 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-17-05-671 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-17-05-671 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-28-30-043 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-28-30-044 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-28-30-914 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-28-31-881 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-28-31-881 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-28-38-225 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-28-38-228 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5afc5182
+[INFO ] 14-11-2023_10-28-38-233 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":3,"cartItems":[{"product":{"price":2.59,"name":"apple","description":"500g","id":13},"quantity":1,"totalPrice":2.59},{"product":{"price":2.75,"name":"carrot","description":"300g","id":18},"quantity":2,"totalPrice":5.5}],"subtotalPrice":8.09}}
+[INFO ] 14-11-2023_10-30-48-679 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-30-48-681 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-30-48-692 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-30-49-048 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-31-03-115 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-31-03-117 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-31-03-117 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-03-984 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-03-992 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-04-544 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-04-859 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-05-423 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-05-423 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-11-451 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-11-454 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_10-31-11-456 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_10-31-11-457 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_10-31-11-459 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_10-31-11-464 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-18-068 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-18-068 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-18-737 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-19-440 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-19-441 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-35-742 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-35-743 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-36-902 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-36-903 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-41-626 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-41-627 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_10-31-41-628 [HTTP-Dispatcher] Cart - Item: apple, quantity: 1
+[INFO ] 14-11-2023_10-31-41-628 [HTTP-Dispatcher] Cart - Item exist apple! - true
+
+[INFO ] 14-11-2023_10-31-41-628 [HTTP-Dispatcher] Cart - !!Started to remove item: apple
+
+[INFO ] 14-11-2023_10-31-41-628 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-43-952 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-43-952 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-31-48-666 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-31-48-667 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-43-13-183 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-43-13-186 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-43-13-196 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-43-13-602 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-43-18-737 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-43-18-739 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-43-18-741 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-43-19-486 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-43-19-489 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-43-20-689 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-43-21-403 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-43-22-176 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-43-22-176 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_10-46-11-999 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-46-12-001 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-46-12-012 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-46-12-196 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-46-15-685 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-46-15-685 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-46-15-686 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2999ed7e
+[INFO ] 14-11-2023_10-46-16-600 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-46-16-600 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2999ed7e
+[INFO ] 14-11-2023_10-46-17-176 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-46-17-709 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-46-18-461 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-46-18-461 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2999ed7e
+[INFO ] 14-11-2023_10-47-02-829 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-47-02-833 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-47-02-849 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-47-03-071 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-47-08-402 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-47-08-403 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-47-08-405 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2f4ee663
+[INFO ] 14-11-2023_10-47-09-167 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-47-09-167 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2f4ee663
+[INFO ] 14-11-2023_10-47-09-804 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-47-10-524 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-47-11-451 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-47-11-451 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2f4ee663
+[INFO ] 14-11-2023_10-48-57-688 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-48-57-689 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2f4ee663
+[INFO ] 14-11-2023_10-53-10-845 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-53-10-847 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-53-10-860 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-53-11-181 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-53-29-398 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-53-29-403 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-53-29-410 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@10743bf6
+[INFO ] 14-11-2023_10-53-30-228 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-53-30-229 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@10743bf6
+[INFO ] 14-11-2023_10-53-33-044 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-53-33-487 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-53-35-446 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-53-35-446 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@10743bf6
+[INFO ] 14-11-2023_10-55-43-353 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_10-55-43-356 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_10-55-43-367 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_10-55-43-553 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_10-55-47-666 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_10-55-47-666 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_10-55-47-667 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@30f630f5
+[INFO ] 14-11-2023_10-55-48-866 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-55-48-869 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@30f630f5
+[INFO ] 14-11-2023_10-55-49-731 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-55-51-231 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-55-52-114 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_10-55-52-115 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@30f630f5
+[INFO ] 14-11-2023_11-37-45-603 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_11-37-45-605 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_11-37-45-618 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_11-37-45-942 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_11-37-51-605 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_11-37-51-609 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_11-37-51-612 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-38-01-879 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-38-01-881 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-38-03-283 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-38-03-284 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-38-04-236 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-38-05-021 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-38-05-021 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-38-37-264 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-38-37-265 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-39-21-832 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-39-21-833 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-39-30-606 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-39-44-244 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-39-44-245 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-41-40-378 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-41-40-395 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-41-40-399 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":4,"cartItems":[{"product":{"price":2.29,"name":"ham","description":"50g","id":5},"quantity":3,"totalPrice":6.87},{"product":{"price":1.5,"name":"butter","description":"200g","id":1},"quantity":1,"totalPrice":1.5}],"subtotalPrice":8.37}}
+[INFO ] 14-11-2023_11-42-15-268 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-15-272 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-16-282 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-16-282 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-18-568 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-18-569 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_11-42-18-572 [HTTP-Dispatcher] Cart - Item: ham, quantity: 3
+[INFO ] 14-11-2023_11-42-18-573 [HTTP-Dispatcher] Cart - Item exist ham! - true
+
+[INFO ] 14-11-2023_11-42-18-573 [HTTP-Dispatcher] Cart - !!Started to remove item: ham
+
+[INFO ] 14-11-2023_11-42-18-573 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-19-278 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-19-279 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_11-42-19-279 [HTTP-Dispatcher] Cart - Item: butter, quantity: 1
+[INFO ] 14-11-2023_11-42-19-279 [HTTP-Dispatcher] Cart - Item exist butter! - true
+
+[INFO ] 14-11-2023_11-42-19-280 [HTTP-Dispatcher] Cart - !!Started to remove item: butter
+
+[INFO ] 14-11-2023_11-42-19-280 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-22-164 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-22-164 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-35-002 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-35-003 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-37-070 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-38-079 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-41-882 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-41-883 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-47-080 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-47-081 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_11-42-47-082 [HTTP-Dispatcher] Cart - Item: ham, quantity: 1
+[INFO ] 14-11-2023_11-42-47-082 [HTTP-Dispatcher] Cart - Item: chicken fillet, quantity: 1
+[INFO ] 14-11-2023_11-42-47-082 [HTTP-Dispatcher] Cart - Item exist chicken fillet! - true
+
+[INFO ] 14-11-2023_11-42-47-083 [HTTP-Dispatcher] Cart - !!Started to remove item: chicken fillet
+
+[INFO ] 14-11-2023_11-42-47-086 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-48-253 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_11-42-48-253 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@f658ff3
+[INFO ] 14-11-2023_11-42-48-254 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":3,"cartItems":[{"product":{"price":2.29,"name":"ham","description":"50g","id":5},"quantity":3,"totalPrice":6.87}],"subtotalPrice":6.87}}
+[INFO ] 14-11-2023_13-40-30-882 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-40-30-884 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-40-30-897 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-40-31-056 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-40-37-688 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-40-37-692 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-40-37-694 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@591a95c0
+[INFO ] 14-11-2023_13-40-38-998 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-40-38-998 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 14-11-2023_13-40-42-306 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-40-44-541 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-40-44-542 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@591a95c0
+[INFO ] 14-11-2023_13-42-44-120 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-42-44-122 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-42-44-136 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-42-44-279 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-42-48-214 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-42-48-217 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-42-48-221 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-42-49-330 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-42-49-331 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-42-50-198 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-42-51-358 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-42-51-358 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-43-17-925 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-43-17-927 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-43-17-939 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-43-18-095 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-43-26-860 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-43-26-862 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-43-26-864 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-43-28-168 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-43-28-169 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-43-28-781 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-43-29-433 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-43-35-301 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-43-35-301 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-47-11-261 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-47-11-262 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-47-23-569 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-47-23-569 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_13-48-57-403 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-48-57-404 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-48-57-416 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-48-57-568 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-49-15-734 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-49-15-737 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-49-15-738 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1152f34
+[INFO ] 14-11-2023_13-49-16-786 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-49-16-791 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1152f34
+[INFO ] 14-11-2023_13-49-17-501 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-49-18-136 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-49-19-813 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-49-19-814 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1152f34
+[INFO ] 14-11-2023_13-52-03-188 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-52-03-190 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-52-03-200 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-52-03-338 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-52-14-903 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-52-14-905 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-52-14-907 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_13-52-15-932 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-52-15-933 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_13-52-18-026 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-52-19-180 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-52-19-180 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_13-53-04-940 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-53-04-942 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-53-04-953 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-53-05-095 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-53-10-683 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-53-10-684 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-53-10-685 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2226b6f4
+[INFO ] 14-11-2023_13-53-11-731 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-53-11-733 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2226b6f4
+[INFO ] 14-11-2023_13-53-17-944 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-53-24-995 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-53-24-996 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@2226b6f4
+[INFO ] 14-11-2023_13-53-53-194 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_13-53-53-195 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_13-53-53-206 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_13-53-53-355 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_13-54-04-958 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_13-54-04-961 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_13-54-04-963 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_13-54-05-930 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-54-05-931 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_13-54-10-304 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-54-11-374 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_13-54-11-374 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@3767fd84
+[INFO ] 14-11-2023_14-02-34-144 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_14-02-34-145 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_14-02-34-156 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_14-02-34-297 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_14-02-39-104 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_14-02-39-105 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_14-02-39-106 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_14-02-39-956 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-02-39-957 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_14-02-40-548 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-02-42-069 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-02-43-171 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-02-43-172 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_14-02-53-444 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-02-53-465 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@5cbd9c7b
+[INFO ] 14-11-2023_14-02-53-468 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":2,"cartItems":[{"product":{"price":1.49,"name":"mandarin","description":"50","id":16},"quantity":1,"totalPrice":1.49},{"product":{"price":2.59,"name":"apple","description":"500g","id":13},"quantity":1,"totalPrice":2.59}],"subtotalPrice":4.08}}
+[INFO ] 14-11-2023_14-07-19-969 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 14-11-2023_14-07-19-971 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 14-11-2023_14-07-19-986 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 14-11-2023_14-07-20-145 [main] Server - HTTP Server started at port 8888
+[INFO ] 14-11-2023_14-07-43-075 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_14-07-43-078 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_14-07-43-080 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-07-44-277 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-44-278 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-07-46-365 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-47-483 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-48-735 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-48-735 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-07-57-003 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-57-005 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-07-57-018 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-57-020 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-07-57-021 [HTTP-Dispatcher] Cart - Item: mandarin, quantity: 1
+[INFO ] 14-11-2023_14-07-57-023 [HTTP-Dispatcher] Cart - Item exist mandarin! - true
+
+[INFO ] 14-11-2023_14-07-57-024 [HTTP-Dispatcher] Cart - !!Started to remove item: mandarin
+
+[INFO ] 14-11-2023_14-07-57-025 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-07-57-026 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-07-57-027 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-07-57-027 [HTTP-Dispatcher] Cart - Item: apple, quantity: 1
+[INFO ] 14-11-2023_14-07-57-027 [HTTP-Dispatcher] Cart - Item exist apple! - true
+
+[INFO ] 14-11-2023_14-07-57-027 [HTTP-Dispatcher] Cart - !!Started to remove item: apple
+
+[INFO ] 14-11-2023_14-07-57-027 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-05-808 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-05-809 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-08-309 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-08-939 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-09-533 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-10-310 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-11-108 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-11-108 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-12-000 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-12-752 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-13-979 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-13-979 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-778 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-780 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-795 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-796 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-08-27-797 [HTTP-Dispatcher] Cart - Item: butter, quantity: 1
+[INFO ] 14-11-2023_14-08-27-797 [HTTP-Dispatcher] Cart - Item: eggs, quantity: 1
+[INFO ] 14-11-2023_14-08-27-798 [HTTP-Dispatcher] Cart - Item exist eggs! - true
+
+[INFO ] 14-11-2023_14-08-27-798 [HTTP-Dispatcher] Cart - !!Started to remove item: eggs
+
+[INFO ] 14-11-2023_14-08-27-801 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-803 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-803 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-08-27-804 [HTTP-Dispatcher] Cart - Item: butter, quantity: 1
+[INFO ] 14-11-2023_14-08-27-805 [HTTP-Dispatcher] Cart - Item exist butter! - true
+
+[INFO ] 14-11-2023_14-08-27-805 [HTTP-Dispatcher] Cart - !!Started to remove item: butter
+
+[INFO ] 14-11-2023_14-08-27-805 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-807 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-807 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-08-27-807 [HTTP-Dispatcher] Cart - Item: curd, quantity: 1
+[INFO ] 14-11-2023_14-08-27-807 [HTTP-Dispatcher] Cart - Item exist curd! - true
+
+[INFO ] 14-11-2023_14-08-27-807 [HTTP-Dispatcher] Cart - !!Started to remove item: curd
+
+[INFO ] 14-11-2023_14-08-27-808 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-808 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-808 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-08-27-809 [HTTP-Dispatcher] Cart - Item: cheese, quantity: 1
+[INFO ] 14-11-2023_14-08-27-809 [HTTP-Dispatcher] Cart - Item: muffin, quantity: 1
+[INFO ] 14-11-2023_14-08-27-809 [HTTP-Dispatcher] Cart - Item: bread, quantity: 1
+[INFO ] 14-11-2023_14-08-27-809 [HTTP-Dispatcher] Cart - Item exist bread! - true
+
+[INFO ] 14-11-2023_14-08-27-809 [HTTP-Dispatcher] Cart - !!Started to remove item: bread
+
+[INFO ] 14-11-2023_14-08-27-809 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-810 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-810 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-08-27-810 [HTTP-Dispatcher] Cart - Item: cheese, quantity: 1
+[INFO ] 14-11-2023_14-08-27-810 [HTTP-Dispatcher] Cart - Item: muffin, quantity: 1
+[INFO ] 14-11-2023_14-08-27-810 [HTTP-Dispatcher] Cart - Item exist muffin! - true
+
+[INFO ] 14-11-2023_14-08-27-810 [HTTP-Dispatcher] Cart - !!Started to remove item: muffin
+
+[INFO ] 14-11-2023_14-08-27-811 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-27-811 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-27-811 [HTTP-Dispatcher] Cart - Items list:
+[INFO ] 14-11-2023_14-08-27-811 [HTTP-Dispatcher] Cart - Item: cheese, quantity: 1
+[INFO ] 14-11-2023_14-08-27-811 [HTTP-Dispatcher] Cart - Item exist cheese! - true
+
+[INFO ] 14-11-2023_14-08-27-811 [HTTP-Dispatcher] Cart - !!Started to remove item: cheese
+
+[INFO ] 14-11-2023_14-08-27-812 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-08-32-102 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-08-32-102 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@75f8e9d1
+[INFO ] 14-11-2023_14-25-19-384 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_14-25-19-385 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_14-25-19-385 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1531227c
+[INFO ] 14-11-2023_14-25-19-443 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-25-19-448 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-25-19-452 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1531227c
+[INFO ] 14-11-2023_14-25-19-453 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":5,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45}],"subtotalPrice":17.45}}
+[INFO ] 14-11-2023_14-25-19-463 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_14-25-19-463 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@1531227c
+[INFO ] 14-11-2023_17-43-41-341 [HTTP-Dispatcher] Session - building sid
+[INFO ] 14-11-2023_17-43-41-342 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 14-11-2023_17-43-41-342 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6ccd8c4
+[INFO ] 14-11-2023_17-43-41-394 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_17-43-41-397 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_17-43-41-397 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6ccd8c4
+[INFO ] 14-11-2023_17-43-41-397 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":5,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45}],"subtotalPrice":17.45}}
+[INFO ] 14-11-2023_17-43-41-405 [HTTP-Dispatcher] CartHandler - logs from handle method cartHandler
+[INFO ] 14-11-2023_17-43-41-405 [HTTP-Dispatcher] CartService - Info about cart from session:
+com.eshop.cart.Cart@6ccd8c4
+[INFO ] 15-11-2023_10-13-33-070 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_10-13-33-074 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_10-13-33-074 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@171eab6c
+[INFO ] 15-11-2023_10-15-06-652 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 15-11-2023_10-15-06-655 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 15-11-2023_10-15-06-674 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 15-11-2023_10-15-06-906 [main] Server - HTTP Server started at port 8888
+[INFO ] 15-11-2023_10-15-24-152 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_10-15-24-153 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_10-15-24-154 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 15-11-2023_10-15-24-231 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":5,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45}],"subtotalPrice":17.45}}
+[INFO ] 15-11-2023_10-34-49-399 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_10-34-49-400 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_10-34-49-400 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@732f104d
+[INFO ] 15-11-2023_10-34-49-458 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":5,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45}],"subtotalPrice":17.45}}
+[INFO ] 15-11-2023_11-34-32-348 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_11-34-32-349 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_11-34-32-350 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1c7b200
+[INFO ] 15-11-2023_11-34-32-408 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_11-35-37-924 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_11-35-37-925 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_11-35-37-926 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@dab953e
+[INFO ] 15-11-2023_11-35-37-992 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_11-36-01-863 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_11-36-01-863 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_11-36-01-864 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@167fbf09
+[INFO ] 15-11-2023_11-36-01-936 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_17-30-51-763 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_17-30-51-766 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_17-30-51-767 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@30d4832b
+[INFO ] 15-11-2023_17-30-51-827 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_17-31-13-832 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_17-31-13-833 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_17-31-13-833 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5e0c7d09
+[INFO ] 15-11-2023_17-31-13-889 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_17-31-35-443 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_17-31-35-446 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_17-31-35-447 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@2ff45933
+[INFO ] 15-11-2023_17-31-35-516 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_18-04-19-653 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_18-04-19-654 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_18-04-19-654 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@1cb4c0bd
+[INFO ] 15-11-2023_18-04-19-714 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_18-04-57-831 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_18-04-57-831 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_18-04-57-832 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@11c4d34d
+[INFO ] 15-11-2023_18-04-57-885 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 15-11-2023_18-05-12-915 [HTTP-Dispatcher] Session - building sid
+[INFO ] 15-11-2023_18-05-12-915 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 15-11-2023_18-05-12-916 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@a0836a7
+[INFO ] 15-11-2023_18-05-12-970 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}

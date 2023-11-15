@@ -45,7 +45,7 @@
 }
 
 .product-price-header {
-    width: 15%;
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@
 }
 
 .product-quantity-header {
-    width: 15%;
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -80,7 +80,8 @@
     font-size:1.5vw;
 }
 
-.product-update > button {
+.product-update,
+.product-remove > button {
     font-size:1.5vw;
 }
 
@@ -89,7 +90,7 @@
 }
 
 .product-total-price-header {
-    width: 15%;
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -101,7 +102,19 @@
 }
 
 .product-update-header {
-    width: 15%;
+    width: 12%;
+    display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-remove-header {
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,7 +140,7 @@
 }
 
 .product-price {
-    width: 15%;
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -139,7 +152,7 @@
 }
 
 .product-quantity {
-    width: 15%;
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -151,7 +164,7 @@
 }
 
 .product-total-price {
-    width: 15%;
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
@@ -162,8 +175,9 @@
     align-items: center;
 }
 
-.product-update {
-    width: 15%;
+.product-update,
+.product-remove {
+    width: 12%;
     display: flex;
     background-position: center;
     background-repeat: no-repeat;

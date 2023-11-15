@@ -1,13 +1,17 @@
 package com.eshop.cart;
 
 import com.eshop.product.Product;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
+import javax.swing.text.html.Option;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 public class Cart {
-
+//    private static final Logger logger = LogManager.getLogger(Cart.class);
     List<CartItem> items;
     int numberOfItems;
 
@@ -29,6 +33,34 @@ public class Cart {
         amount = b.setScale(2, BigDecimal.ROUND_HALF_EVEN).doubleValue();
         return amount;
     }
+
+    private void printItems(){
+        for (CartItem item:items
+             ) {
+            System.out.printf("----\nItem name: %s, item quantity: %s\n", item.product.getName(), String.valueOf(item.getQuantity()));
+        }
+        System.out.println("|||\n");
+    }
+    public synchronized int removeItem(Product product) {
+        boolean isItemExist = false;
+//        logger.info("Items list:");
+        printItems();
+        for (CartItem cItem : items) {
+//            logger.info(String.format("Item: %s, quantity: %s", cItem.product.getName(), String.valueOf(cItem.getQuantity())));
+            if (cItem.getProduct().getId() == product.getId()) {
+                isItemExist = true;
+//                logger.info("Item exist " + cItem.product.getName() + "! - " + true + "\n");
+            }
+            if (isItemExist) {
+//                logger.info("!!Started to remove item: " + cItem.product.getName() + "\n");
+                items.remove(cItem);
+                printItems();
+                return product.getId();
+            }
+        }
+        return -1;
+    }
+
 
     public synchronized void addItem(Product product) {
 

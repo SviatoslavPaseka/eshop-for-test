@@ -43,11 +43,3 @@
     margin:1px;
     font-size:1.5vw;
 }
-
-.flex-item-cart-product {
-    flex-grow: 1;
-    border: 1px solid black;
-    background: white;
-    display: flex;
-    flex-direction: row;
-}

@@ -36,11 +36,15 @@ function drawCartInfo(json) {
     var productUpdateHeader = document.createElement("div");
     productUpdateHeader.className = "product-update-header";
 
+    var productRemoveHeader = document.createElement("div");
+    productUpdateHeader.className = "product-remove-header";
+
     productFlexItem.appendChild(productNameHeader);
     productFlexItem.appendChild(productPriceHeader);
     productFlexItem.appendChild(productQuantityHeader);
     productFlexItem.appendChild(productTotalPriceHeader);
     productFlexItem.appendChild(productUpdateHeader);
+    productFlexItem.appendChild(productRemoveHeader);
 
     cart.appendChild(productFlexItem);
 
@@ -89,6 +93,10 @@ function drawCartInfo(json) {
         var updateQuantityBlock = document.createElement("div");
         updateQuantityBlock.className = "product-update";
         updateQuantityBlock.innerHTML = '<button onclick="updateQuantity(' + id + ');">Update</button>';
+        
+        var removeItemBlock = document.createElement("div");
+        removeItemBlock.className = "product-remove";
+        removeItemBlock.innerHTML = '<button onclick="removeItem(' + id + ');">Remove</button>';
 
         productImgName.appendChild(img);
         productImgName.appendChild(nameBlock);
@@ -98,6 +106,7 @@ function drawCartInfo(json) {
         productFlexItem.appendChild(quantityBlock);
         productFlexItem.appendChild(totalPriceBlock);
         productFlexItem.appendChild(updateQuantityBlock);
+        productFlexItem.appendChild(removeItemBlock);
 
         cart.appendChild(productFlexItem);
     }
@@ -127,6 +136,9 @@ function drawCartInfo(json) {
     var productUpdateHeader = document.createElement("div");
     productUpdateHeader.className = "product-update-header";
 
+    var productRemoveHeader = document.createElement("div");
+    productRemoveHeader.className = "product-remove-header";
+
     var productFlexItem = document.createElement("div");
     productFlexItem.className = "flex-item-cart-footer";
 
@@ -135,6 +147,7 @@ function drawCartInfo(json) {
     productFlexItem.appendChild(itemsInCart);
     productFlexItem.appendChild(subTotalPrice);
     productFlexItem.appendChild(productUpdateHeader);
+    productFlexItem.appendChild(productRemoveHeader);
 
     cart.appendChild(productFlexItem);
 
@@ -215,6 +228,60 @@ function deleteRowWithZeroQuantity() {
 }
 ;
 
+function removeProductFromPage(fId) {
+    var children = document.getElementById("cart").children;
+
+    for (var i = 1; i < children.length - 1; i++) {
+        var id = children[i].id.replace("flex-item-cart-product_", "");
+
+        if (id == fId) {
+            document.getElementById(children[i].id).remove();
+        }
+        ;
+    }
+}
+
+function drawCartAfterRemove(json) {
+    try {
+        var fId = json.removedProductId;
+        removeProductFromPage(fId);
+
+        var itemsInCartValue = json.cartInfo.itemsInCart;
+        var itemsInCart = document.getElementById("product-items-in-cart");
+        itemsInCart.innerHTML = "<span>" + itemsInCartValue + "</span>";
+
+        var subTotalPriceValue = json.cartInfo.subtotalPrice;
+        var subTotalPrice = document.getElementById("products-sub-total-price");
+        subTotalPrice.innerHTML = "<span>" + subTotalPriceValue + "</span>";
+    } catch (e) {
+        alert("Error : " + e);
+    }
+}
+;
+
+async function removeItem(item_id){
+    var product_id = item_id;
+
+    let data = {
+        "id": Number(product_id),
+    };
+
+    let response = await fetch('control/cart/removeitem', {
+        method: 'DELETE',
+        headers: {
+            'Content-Type': 'application/json;charset=utf-8'
+        },
+        body: JSON.stringify(data)
+    });
+    
+    if (response.status == 200) {
+        let json = await response.json();
+        drawCartAfterRemove(json);
+    } else {
+        alert("Error HTTP: " + response.status);
+    };
+};
+
 async function updateQuantity(quantity_id) {
 
     var unput = document.getElementById("quantity_" + quantity_id);
@@ -240,8 +307,7 @@ async function updateQuantity(quantity_id) {
 
     } else {
         alert("Error HTTP: " + response.status);
-    }
-    ;
+    };
 }
 ;
 
@@ -254,7 +320,7 @@ function drawCartOptions(bool) {
         cartOptions.appendChild(continueShopping);
 
         var cleanCart = document.createElement("div");
-        cleanCart.innerHTML = "<span>clean cart</span>";
+        cleanCart.innerHTML = "<button id=\"button_clean_cart\" onclick=\"cleanCart();\">clean cart</button>";
         cleanCart.id = "clean-cart";
         cartOptions.appendChild(cleanCart);
 
@@ -268,8 +334,45 @@ function drawCartOptions(bool) {
         continueShopping.id = "continue-shopping";
         cartOptions.appendChild(continueShopping);
     }
-}
-;
+};
+
+async function cleanCart() {
+    try {
+        // Wait for the fetch operation to complete
+        var cartInfo = await getCartInfoRequest();
+        var ids = cartInfo.cartInfo.cartItems.map(item => item.product.id);
+
+    } catch (error) {
+        console.error("Error fetching cart info:", error);
+    }
+    ids.forEach(id => {
+        removeItem(id);
+    });
+};
+
+async function  getCartInfoRequest(){
+
+    try {
+        let response = await fetch('control/cart/getinfo', {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json;charset=utf-8'
+            }
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        var res = await response.json();
+        // return await response.json();
+        return res;
+    } catch (error) {
+        console.error("Error in getCartInfoRequest:", error);
+        throw error;
+    }
+};
+
+
 
 function docReady(fn) {
     if (document.readyState == "complete" || document.readyState == "interactive" || window.onload == "") {

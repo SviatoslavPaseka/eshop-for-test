@@ -7,11 +7,28 @@ import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class CartService {
-    private static final Logger logger = LogManager.getLogger(CartService.class);
+//    private static final Logger logger = LogManager.getLogger(CartService.class);
     public CartService() {
+    }
+
+    public Map<String, Integer> removeItem(Product product, Session session){
+        Map<String, Integer> result = new HashMap<>();
+        int numbersOfItemsInCart = 0;
+        Cart cart = (Cart) session.getAttribute("cart");
+        int numberOfItemsInCartBefore = cart.getNumberOfItems();
+        int removedProductId = cart.removeItem(product);
+        result.put("removedProductId", removedProductId);
+        int numberOfItemsInCartAfter = cart.getNumberOfItems();
+        if (numberOfItemsInCartAfter < numberOfItemsInCartBefore) {
+            numbersOfItemsInCart = numberOfItemsInCartAfter;
+        }
+        result.put("numbersOfItemsInCart", numbersOfItemsInCart);
+        return result;
     }
 
     public int addItemToSessionCart(Product product, Session session) {
@@ -31,7 +48,7 @@ public class CartService {
 
     public JSONObject getCartInformation(Session session) {
         JSONObject result = new JSONObject();
-        logger.info("Info about cart from session:\n" + session.getAttribute("cart"));
+//        logger.info("Info about cart from session:\n" + session.getAttribute("cart"));
         Cart cart = (Cart) session.getAttribute("cart");
         List<CartItem> items = cart.getItems();
 

@@ -49,7 +49,6 @@ public class CartHandler implements HttpHandler {
         String SID = parseSessionID(req_cookies);
         sessionService.getSessionsList();
         Session session = sessionService.getSession(SID);
-        logger.info("logs from handle method cartHandler");
 
         int responseCode;
         JSONObject responseBody;
@@ -65,6 +64,11 @@ public class CartHandler implements HttpHandler {
                     JSONObject postResult = handlePost(requestURI, t.getRequestBody(), session);
                     responseBody = postResult.getJSONObject("body");
                     responseCode = postResult.getInt("code");
+                    break;
+                case "DELETE":
+                    JSONObject deleteResult = handleDelete(requestURI, t.getRequestBody(), session);
+                    responseBody = deleteResult.getJSONObject("body");
+                    responseCode = deleteResult.getInt("code");
                     break;
                 default:
                     responseCode = 501;
@@ -128,6 +132,42 @@ public class CartHandler implements HttpHandler {
                     Product productToUpdate = parseProduct(json);
                     int quantity = parseQuantity(json);
                     responseBody = updateQuantity(productToUpdate, quantity, session);
+                    logger.info("RESPONSE BODY: " + responseBody);
+                    break;
+                default:
+                    responseCode = 501;
+                    responseBody = TemplateMessages.uriNotImplemented(requestURI);
+                    break;
+            }
+        } catch (JSONException ex) {
+            logger.error("Request body wrong format: {}", ex);
+            responseCode = 400;
+            responseBody = TemplateMessages.requestBodyWrongFormat();
+        } catch (IOException ex) {
+            logger.error("Failed to read inputStream: {}", ex);
+            responseCode = 500;
+            responseBody = TemplateMessages.inputStreamError();
+        }
+
+        result.put("code", responseCode);
+        result.put("body", responseBody);
+
+        return result;
+    }
+
+    private JSONObject handleDelete (String requestURI, InputStream requestBody, Session session){
+        JSONObject result = new JSONObject();
+
+        int responseCode = 200;
+        JSONObject responseBody;
+
+        try {
+            JSONObject json = StreamConventer.getJsonFromInStream(requestBody);
+
+            switch (requestURI) {
+                case "removeitem":
+                    Product productToRemove = parseProduct(json);
+                    responseBody = removeItem(productToRemove, session);
                     break;
                 default:
                     responseCode = 501;
@@ -191,8 +231,7 @@ public class CartHandler implements HttpHandler {
     }
 
     private Integer parseQuantity(JSONObject json) {
-        Integer quantity = json.getInt("quantity");
-        return quantity;
+        return json.getInt("quantity");
     }
 
     private JSONObject updateQuantity(Product product, int quantity, Session session) {
@@ -202,5 +241,10 @@ public class CartHandler implements HttpHandler {
         result.put("cartInfo", cartInfo);
         return result;
     }
-
+    private JSONObject removeItem(Product product, Session session){
+        JSONObject result = new JSONObject(cartService.removeItem(product, session));
+        JSONObject cartInfo = cartService.getCartInformation(session);
+        result.put("cartInfo", cartInfo);
+        return result;
+    }
 }
