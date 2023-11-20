@@ -3361,3 +3361,265 @@ com.eshop.cart.Cart@6ccd8c4
 [INFO ] 15-11-2023_18-05-12-915 [HTTP-Dispatcher] Session - adding attribute to session
 [INFO ] 15-11-2023_18-05-12-916 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@a0836a7
 [INFO ] 15-11-2023_18-05-12-970 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 16-11-2023_13-57-20-925 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 16-11-2023_13-57-20-927 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 16-11-2023_13-57-20-941 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 16-11-2023_13-57-21-303 [main] Server - HTTP Server started at port 8888
+[INFO ] 16-11-2023_13-57-31-171 [HTTP-Dispatcher] Session - building sid
+[INFO ] 16-11-2023_13-57-31-175 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 16-11-2023_13-57-31-177 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@bde3a40
+[INFO ] 16-11-2023_13-57-34-406 [HTTP-Dispatcher] Session - building sid
+[INFO ] 16-11-2023_13-57-34-407 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 16-11-2023_13-57-34-407 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6fab6f7a
+[INFO ] 16-11-2023_15-05-19-799 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 16-11-2023_15-05-19-801 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 16-11-2023_15-05-19-812 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 16-11-2023_15-05-20-194 [main] Server - HTTP Server started at port 8888
+[INFO ] 16-11-2023_15-05-31-204 [HTTP-Dispatcher] Session - building sid
+[INFO ] 16-11-2023_15-05-31-205 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 16-11-2023_15-05-31-206 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@50510997
+[ERROR] 16-11-2023_15-05-32-419 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 16-11-2023_15-05-40-416 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 16-11-2023_15-06-12-722 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 16-11-2023_15-06-12-726 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 16-11-2023_15-06-12-743 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 16-11-2023_15-06-12-984 [main] Server - HTTP Server started at port 8888
+[INFO ] 16-11-2023_15-06-22-484 [HTTP-Dispatcher] Session - building sid
+[INFO ] 16-11-2023_15-06-22-485 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 16-11-2023_15-06-22-486 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@591a95c0
+[ERROR] 16-11-2023_15-06-23-501 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 16-11-2023_15-21-18-842 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 16-11-2023_15-21-18-852 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 16-11-2023_15-21-18-880 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 16-11-2023_15-21-19-024 [main] Server - HTTP Server started at port 8888
+[INFO ] 16-11-2023_15-21-29-949 [HTTP-Dispatcher] Session - building sid
+[INFO ] 16-11-2023_15-21-29-950 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 16-11-2023_15-21-29-951 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3ce28e75
+[INFO ] 16-11-2023_15-25-44-989 [HTTP-Dispatcher] Session - building sid
+[INFO ] 16-11-2023_15-25-44-992 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 16-11-2023_15-25-44-993 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@a6025a6
+[INFO ] 16-11-2023_15-26-16-715 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":5,"cartItems":[{"product":{"price":2.29,"name":"ham","description":"50g","id":5},"quantity":5,"totalPrice":11.45}],"subtotalPrice":11.45}}
+[ERROR] 16-11-2023_15-35-13-624 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 17-11-2023_09-37-42-475 [HTTP-Dispatcher] Session - building sid
+[INFO ] 17-11-2023_09-37-42-480 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 17-11-2023_09-37-42-481 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@23937d8f
+[INFO ] 17-11-2023_09-37-42-572 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 17-11-2023_09-49-29-055 [HTTP-Dispatcher] Session - building sid
+[INFO ] 17-11-2023_09-49-29-056 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 17-11-2023_09-49-29-056 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@39d691c8
+[INFO ] 17-11-2023_09-49-29-139 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 17-11-2023_10-21-04-565 [HTTP-Dispatcher] Session - building sid
+[INFO ] 17-11-2023_10-21-04-567 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 17-11-2023_10-21-04-568 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@60a74f6b
+[ERROR] 17-11-2023_10-24-00-869 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 17-11-2023_10-25-00-380 [main] Main - confPath: /Users/sviatoslavpaseka/Documents/projects/eshop/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 17-11-2023_10-25-00-384 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 17-11-2023_10-25-00-398 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 17-11-2023_10-25-00-714 [main] Server - HTTP Server started at port 8888
+[INFO ] 17-11-2023_10-25-08-778 [HTTP-Dispatcher] Session - building sid
+[INFO ] 17-11-2023_10-25-08-779 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 17-11-2023_10-25-08-780 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@bde3a40
+[ERROR] 17-11-2023_10-25-09-710 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 17-11-2023_10-25-13-725 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.addItemToSessionCart(CartService.java:36) ~[classes/:?]
+	at com.eshop.cart.CartHandler.addItem(CartHandler.java:195) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handlePost(CartHandler.java:129) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:64) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 17-11-2023_10-25-17-060 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[ERROR] 17-11-2023_10-25-49-369 [HTTP-Dispatcher] StaticHandler - Unknown error: {}
+java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:?]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47) ~[?:?]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:113) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:79) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:50) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:463) ~[?:?]
+	at sun.net.httpserver.Request$WriteStream.write(Request.java:393) ~[jdk.httpserver:?]
+	at sun.net.httpserver.ChunkedOutputStream.writeChunk(ChunkedOutputStream.java:125) ~[jdk.httpserver:?]
+	at sun.net.httpserver.ChunkedOutputStream.write(ChunkedOutputStream.java:87) ~[jdk.httpserver:?]
+	at sun.net.httpserver.PlaceholderOutputStream.write(ExchangeImpl.java:449) ~[jdk.httpserver:?]
+	at com.eshop.server.StaticHandler.handle(StaticHandler.java:115) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:849) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:818) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:201) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:560) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:526) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[INFO ] 18-11-2023_18-09-09-931 [main] Main - confPath: /usr/src/app/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 18-11-2023_18-09-09-937 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 18-11-2023_18-09-09-970 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 18-11-2023_18-09-10-139 [main] Server - HTTP Server started at port 8888
+[INFO ] 18-11-2023_18-22-54-455 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_18-22-54-462 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_18-22-54-470 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@768730c0
+[ERROR] 18-11-2023_18-23-03-135 [HTTP-Dispatcher] CartHandler - Unknown error: {}
+java.lang.NullPointerException: null
+	at com.eshop.cart.CartService.getCartInformation(CartService.java:52) ~[classes/:?]
+	at com.eshop.cart.CartHandler.getCartInfo(CartHandler.java:203) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handleGet(CartHandler.java:102) ~[classes/:?]
+	at com.eshop.cart.CartHandler.handle(CartHandler.java:59) [classes/:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.AuthFilter.doFilter(AuthFilter.java:82) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:80) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(ServerImpl.java:730) [jdk.httpserver:?]
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Filter.java:77) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Exchange.run(ServerImpl.java:699) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(ServerImpl.java:159) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(ServerImpl.java:446) [jdk.httpserver:?]
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(ServerImpl.java:412) [jdk.httpserver:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[INFO ] 18-11-2023_18-30-45-985 [main] Main - confPath: /usr/src/app/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 18-11-2023_18-30-45-991 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 18-11-2023_18-30-46-023 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 18-11-2023_18-30-46-176 [main] Server - HTTP Server started at port 8888
+[INFO ] 18-11-2023_19-05-03-839 [main] Main - confPath: /usr/src/app/src/main/resources/for-exec-maven-plugin/config.properties
+[INFO ] 18-11-2023_19-05-03-882 [main] ConfigLoader - Config file was successfully loaded
+[INFO ] 18-11-2023_19-05-04-070 [main] DatabaseConnector - Database connection was successfully established
+[INFO ] 18-11-2023_19-05-04-619 [main] Server - HTTP Server started at port 8888
+[INFO ] 18-11-2023_19-14-21-754 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-14-21-759 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-14-21-762 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@3c8ee926
+[INFO ] 18-11-2023_19-15-24-626 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-15-24-630 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-15-24-631 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@ea596bf
+[INFO ] 18-11-2023_19-15-24-800 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 18-11-2023_19-21-27-421 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-21-27-425 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-21-27-426 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@10c2cb1d
+[INFO ] 18-11-2023_19-21-27-583 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 18-11-2023_19-27-44-210 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-27-44-220 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-27-44-223 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6dab47cd
+[INFO ] 18-11-2023_19-27-44-412 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 18-11-2023_19-31-21-077 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-31-21-082 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-31-21-084 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@6f7802b6
+[INFO ] 18-11-2023_19-31-21-248 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 18-11-2023_19-34-17-306 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-34-17-311 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-34-17-312 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@5031516c
+[INFO ] 18-11-2023_19-34-17-457 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}
+[INFO ] 18-11-2023_19-36-27-589 [HTTP-Dispatcher] Session - building sid
+[INFO ] 18-11-2023_19-36-27-593 [HTTP-Dispatcher] Session - adding attribute to session
+[INFO ] 18-11-2023_19-36-27-594 [HTTP-Dispatcher] Session - session attribute 'cart': com.eshop.cart.Cart@37508543
+[INFO ] 18-11-2023_19-36-27-753 [HTTP-Dispatcher] CartHandler - RESPONSE BODY: {"cartInfo":{"itemsInCart":6,"cartItems":[{"product":{"price":3.49,"name":"sausage","description":"100g","id":6},"quantity":5,"totalPrice":17.45},{"product":{"price":2.99,"name":"curd","description":"500g","id":3},"quantity":1,"totalPrice":2.99}],"subtotalPrice":20.44}}

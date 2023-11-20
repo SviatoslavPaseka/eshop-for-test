@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  webapp:
+    image: maven:3.8.4-openjdk-11
+    container_name: eshop
+    working_dir: /usr/src/app
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/usr/src/app
+    command: >
+      sh -c "mvn package && mvn exec:exec"
+    networks:
+      - framework_network
+
+networks:
+  framework_network:
+    name: framework_network
+    driver: bridge
