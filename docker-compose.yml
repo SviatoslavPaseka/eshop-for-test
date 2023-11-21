@@ -10,10 +10,9 @@ services:
       - .:/usr/src/app
     command: >
       sh -c "mvn package && mvn exec:exec"
-    networks:
-      - framework_network
-
-networks:
-  framework_network:
-    name: framework_network
-    driver: bridge
+#    networks:
+#      - framework_network
+#networks:
+#  framework_network:
+#    name: framework_network
+#    driver: bridge

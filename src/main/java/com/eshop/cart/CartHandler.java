@@ -132,7 +132,7 @@ public class CartHandler implements HttpHandler {
                     Product productToUpdate = parseProduct(json);
                     int quantity = parseQuantity(json);
                     responseBody = updateQuantity(productToUpdate, quantity, session);
-                    logger.info("RESPONSE BODY: " + responseBody);
+//                    logger.info("RESPONSE BODY: " + responseBody);
                     break;
                 default:
                     responseCode = 501;

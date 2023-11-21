@@ -11,7 +11,6 @@ import java.util.List;
 import java.util.Optional;
 
 public class Cart {
-//    private static final Logger logger = LogManager.getLogger(Cart.class);
     List<CartItem> items;
     int numberOfItems;
 
@@ -43,18 +42,12 @@ public class Cart {
     }
     public synchronized int removeItem(Product product) {
         boolean isItemExist = false;
-//        logger.info("Items list:");
-        printItems();
         for (CartItem cItem : items) {
-//            logger.info(String.format("Item: %s, quantity: %s", cItem.product.getName(), String.valueOf(cItem.getQuantity())));
             if (cItem.getProduct().getId() == product.getId()) {
                 isItemExist = true;
-//                logger.info("Item exist " + cItem.product.getName() + "! - " + true + "\n");
             }
             if (isItemExist) {
-//                logger.info("!!Started to remove item: " + cItem.product.getName() + "\n");
                 items.remove(cItem);
-                printItems();
                 return product.getId();
             }
         }
