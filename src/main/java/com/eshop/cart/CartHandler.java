@@ -129,6 +129,11 @@ public class CartHandler implements HttpHandler {
                     responseBody = addItem(productToAdd, session);
                     break;
                 case "updatequantity":
+                    if (json.get("id").equals(3)){
+                        responseCode = 404;
+                        responseBody = TemplateMessages.productIsNotAvailable(json.get("id").toString());
+                        break;
+                    }
                     Product productToUpdate = parseProduct(json);
                     int quantity = parseQuantity(json);
                     responseBody = updateQuantity(productToUpdate, quantity, session);
@@ -168,6 +173,10 @@ public class CartHandler implements HttpHandler {
                 case "removeitem":
                     Product productToRemove = parseProduct(json);
                     responseBody = removeItem(productToRemove, session);
+                    if(responseBody.get("removedProductId").equals(-1)){
+                        responseCode = 404;
+                        responseBody = TemplateMessages.productIsNotPresentInCart(json.get("id").toString());
+                    }
                     break;
                 default:
                     responseCode = 501;
@@ -243,6 +252,7 @@ public class CartHandler implements HttpHandler {
     }
     private JSONObject removeItem(Product product, Session session){
         JSONObject result = new JSONObject(cartService.removeItem(product, session));
+        System.out.println("RESULT: \n" + result);
         JSONObject cartInfo = cartService.getCartInformation(session);
         result.put("cartInfo", cartInfo);
         return result;
